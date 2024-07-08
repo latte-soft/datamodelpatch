@@ -2,7 +2,7 @@
     "instanceHierarchy": {
         "name": "PatchRoot",
         "tree": {
-            "$path": "src"
+            "$path": "src/PatchRoot"
         }
     }
 }
