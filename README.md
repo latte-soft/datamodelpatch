@@ -17,8 +17,8 @@ The goal of this decompilation is to achieve correct re-compilation of `LuaApp` 
 
 ## 🤝 Contributing 
 
-- Contributions to fix buggy code because of decompiler bugs are accepted. 
-- Contributions to make `RobloxScript`-exclusive work on `LocalScript` permissions are also accepted.
+- Contributions to fix buggy/broken code because of decompiler bugs are accepted. 
+- Contributions to make `RobloxScript`-exclusive code work on `LocalScript` permissions are also accepted.
 - Other contributions can be reviewed to see if they are eligible to merge. 
 
 ## 🚫 Problems
