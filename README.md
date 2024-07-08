@@ -1,15 +1,25 @@
 # DataModelPatch
 
-Accurate decompilation of the Roblox Player's distribution of DataModelPatch.rbxm (Release v628), including the universal `LuaApp`
+Accurate decompilation of the Roblox Player's distribution of DataModelPatch.rbxm, including the universal `LuaApp`
 
 > [!WARNING]
 > This is a WIP decompilation; it is not quite yet ready for re-compilation.
+
+### Goal 
+
+The goal of this decompilation is to achieve correct re-compilation of `LuaApp` and similar files. The core scripts are updated to upstream every 1-2 weeks aside from decompiler bug fixes.  
 
 ### Credits
 
 * [reggie](https://github.com/regginator) - `rbxm2fs` dumper ([`luauc/PatchRoot/`](luauc/PatchRoot) output)
 * [TheGreatSageEqualToHeaven](https://github.com/TheGreatSageEqualToHeaven) - Outputting decompiled source code from bytecode output ([`src/PatchRoot/`](src/PatchRoot))
 * Of course, the [Oracle](https://discord.gg/prHW9TA4QW) decompiler for decompilation of Luauc bytecode 🙂
+
+## 🤝 Contributing 
+
+- Contributions to fix buggy code because of decompiler bugs are accepted. 
+- Contributions to make `RobloxScript`-exclusive work on `LocalScript` permissions are also accepted.
+- Other contributions can be reviewed to see if they are eligible to merge. 
 
 ## 🚫 Problems
 
