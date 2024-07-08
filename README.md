@@ -1,6 +1,6 @@
 # DataModelPatch
 
-Matching decompilation of the Roblox Player's distribution of DataModelPatch.rbxm (Release v628), including the universal `LuaApp`
+Accurate decompilation of the Roblox Player's distribution of DataModelPatch.rbxm (Release v628), including the universal `LuaApp`
 
 > [!WARNING]
 > This is a WIP decompilation; it is not quite yet ready for re-compilation.
