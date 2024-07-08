@@ -1,0 +1,3 @@
+return {
+    default = _G
+};

@@ -1,0 +1,10 @@
+local l_Parent_0 = script.Parent.Parent;
+local _ = require(l_Parent_0.LuauPolyfill);
+local _ = require(l_Parent_0.Shared);
+local _ = require(script.Parent.ReactWorkTags);
+local _ = require(script.Parent.ReactTypeOfMode);
+local _ = require(script.Parent.ReactFiberFlags);
+local _ = require(script.Parent.ReactRootTags);
+local _ = require(l_Parent_0.Shared);
+local _ = require(l_Parent_0.Scheduler);
+return {};

@@ -1,0 +1,73 @@
+local l_script_FirstAncestor_0 = script:FindFirstAncestor("AppChat");
+local l_Parent_0 = l_script_FirstAncestor_0.Parent;
+local v2 = require(l_Parent_0.React);
+local v3 = require(l_Parent_0.Cryo);
+local _ = require(l_Parent_0.UIBlox);
+local v5 = require(l_script_FirstAncestor_0.SocialLibraries);
+local v6 = require(script.Parent.PresenceBubbleCell);
+local v7 = {
+    Size = UDim2.new(1, 0, 1, 0), 
+    avatarCirclePresenceImage = nil, 
+    subTitleText = nil, 
+    subTitleIcon = nil, 
+    titleText = "TestUser", 
+    secondaryTitleText = nil, 
+    thumbnails = {}, 
+    childWidth = 0, 
+    style = v5.Components.TestStyle, 
+    showDivider = true, 
+    boldTitle = true, 
+    muteTitleColor = false, 
+    isLoading = false, 
+    hideLeftPadding = false
+};
+return v2.memo(function(v8)
+    local v9 = v3.Dictionary.join(v7, v8);
+    local l_style_0 = v9.style;
+    local l_Theme_0 = l_style_0.Theme;
+    local l_Font_0 = l_style_0.Font;
+    local l_FontSize_100_0 = l_style_0.Tokens.Global.FontSize_100;
+    local l_FontSize_150_0 = l_style_0.Tokens.Global.FontSize_150;
+    local v15 = type(v9.avatarCirclePresenceImage) == "table";
+    return v2.createElement(v6, {
+        childWidth = v9.childWidth, 
+        titleText = v9.titleText, 
+        secondaryTitleText = v9.secondaryTitleText, 
+        subTitleText = v9.subTitleText, 
+        subTitleIcon = v9.subTitleIcon, 
+        avatarCirclePresenceImage = v9.avatarCirclePresenceImage, 
+        thumbnails = v9.thumbnails, 
+        onActivated = v9.onActivated, 
+        onCircleActivated = v9.onCircleActivated, 
+        Size = v9.Size, 
+        isLoading = v9.isLoading, 
+        showNewPresenceImage = v15, 
+        pillText = v9.pillText, 
+        BackgroundColor3 = l_Theme_0.BackgroundDefault.Color, 
+        BackgroundTransparency = l_Theme_0.BackgroundDefault.Transparency, 
+        onPressedBackgroundColor3 = l_Theme_0.BackgroundOnPress.Color, 
+        onPressedBackgroundTransparency = l_Theme_0.BackgroundOnPress.Transparency, 
+        avatarCircleBackgroundColor3 = l_Theme_0.PlaceHolder.Color, 
+        avatarCircleDividerColor3 = l_Theme_0.PlaceHolder.Color, 
+        avatarCircleCellWidth = 72, 
+        avatarCircleSize = 48, 
+        avatarCirclePresenceImageColor3 = if not v15 then nil else l_Theme_0.OnlineStatus.Color, 
+        avatarCirclePresenceImageTransparency = if not v15 then nil else l_Theme_0.OnlineStatus.Transparency, 
+        subTitleTextFont = l_Font_0.CaptionBody.Font, 
+        subTitleTextTransparency = l_Theme_0.TextDefault.Transparency, 
+        subTitleTextColor3 = l_Theme_0.TextDefault.Color, 
+        subTitleTextSize = l_FontSize_150_0, 
+        titleFont = l_Font_0.Header2.Font, 
+        titleTextTransparency = if not v9.muteTitleColor and v9.boldTitle then l_Theme_0.TextEmphasis.Transparency else l_Theme_0.TextDefault.Transparency, 
+        titleTextColor3 = if not v9.muteTitleColor and v9.boldTitle then l_Theme_0.TextEmphasis.Color else l_Theme_0.TextDefault.Color, 
+        titleTextSize = l_FontSize_100_0, 
+        secondaryTitleFont = l_Font_0.Header2.Font, 
+        secondaryTitleTextTransparency = l_Theme_0.TextMuted.Transparency, 
+        secondaryTitleTextColor3 = l_Theme_0.TextMuted.Color, 
+        secondaryTitleTextSize = l_FontSize_100_0, 
+        showDivider = v9.showDivider, 
+        dividerTransparency = l_Theme_0.Divider.Transparency, 
+        dividerColor3 = l_Theme_0.Divider.Color, 
+        hideLeftPadding = v9.hideLeftPadding
+    }, v9.children or {});
+end);

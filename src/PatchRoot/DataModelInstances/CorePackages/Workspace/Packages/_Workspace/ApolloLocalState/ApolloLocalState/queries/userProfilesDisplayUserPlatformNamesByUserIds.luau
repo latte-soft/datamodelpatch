@@ -1,0 +1,1 @@
+return (require(script:FindFirstAncestor("ApolloLocalState").Parent.ApolloClient).gql("\tquery UserProfiles($userIds: [String] $userIds) {\n\t\t\tid\n\t\t\tnames {\n\t\t\t\tcombinedName\n\t\t\t\tusername\n\t\t\t\tdisplayName\n\t\t\t\tplatformName\n\t\t\t}\n\t\t\tplatformProfileId\n\t\t}\n\t}\n"));

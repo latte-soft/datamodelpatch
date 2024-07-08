@@ -1,0 +1,1 @@
+return "\ttype MutualFriend implements User {\n\t\tid: ID String String ID [MutualFriend Boolean ID [ProfileInsights [String] Int, pageId: String): ProfileInsightsPages\n\t\tprofilesInsightsByUserIds(userIds: [String] Int): [ProfileInsights]\n\t}\n";

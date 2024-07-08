@@ -1,0 +1,1 @@
+return require(game:GetService("CorePackages").RoactRodux).connect(require(script.Parent.mapStateToProps), (require(script.Parent.mapDispatchToProps)))((require(script.Parent.AndroidBackButtonNavigationHandler)));

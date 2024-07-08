@@ -1,0 +1,22 @@
+return {
+    Gateway = "Gateway", 
+    FriendsLanding = "FriendsLanding", 
+    FilterByModal = "FilterByModal", 
+    GenericToast = "GenericToast", 
+    ContextualMenu = "ContextualMenu", 
+    ContactImporter = "ContactImporter", 
+    ContactsList = "ContactsList", 
+    ContactsRevokedAccessDialog = "ContactsRevokedAccessDialog", 
+    DiscoverabilityOverlay = "DiscoverabilityOverlay", 
+    ProfileQRCodePage = "ProfileQRCodePage", 
+    AddFriends = "AddFriendsPage", 
+    SearchFriends = "SearchFriends", 
+    FriendFinder = "FriendFinder", 
+    GameDetailsPeekView = "GameDetailsPeekView", 
+    ViewUserProfile = "ViewUserProfile", 
+    LearnMore = "LearnMore", 
+    PhoneVerification = "PhoneVerification", 
+    ProfileQRCode = "ProfileQRCode", 
+    AmpWizardContainer = "AmpWizardContainer", 
+    SearchPage = "SearchPage"
+};

@@ -1,0 +1,1 @@
+return (require(script:FindFirstAncestor("ApolloLocalState").Parent.ApolloClient).gql("\tquery ProfilesInsights($userIds: [String] Int) {\n\t\tprofilesInsightsByUserIds(userIds: $userIds, count: $count) {\n\t\t\ttargetUserId\n\t\t\tisOfflineFrequents\n\t\t\tmutualFriends {\n\t\t\t\tid\n\t\t\t\tusername\n\t\t\t\tdisplayName\n\t\t\t}\n\t\t}\n\t}\n"));

@@ -1,0 +1,1990 @@
+return {
+    FileVersion = 9022, 
+    MaxAppVersion = 628, 
+    Packages = {
+        ["/Packages/_Index/2D-Collision-Matchers"] = {
+            source_hash = "dfbca8cb010d8f67c4d997f04e1e2e3a59ae1386ae8cbb34c3e08ecff3ef1ea2", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/ApolloClient"] = {
+            source_hash = "5071adb95c38f7cbbbdb887bb7feb0660bba750464943d351b60d52d038461b1", 
+            dep_hash = "b9896841ada6ae133f8aa6b1179baf3b9c5bc8c88ce2c025fc4ad3a4fdbe0e51"
+        }, 
+        ["/Packages/_Index/ApolloClientTesting"] = {
+            source_hash = "65dc49412fb28fef31084436dbc09652d98af3b4fad9459730a8a3be68d85e9a", 
+            dep_hash = "1bb68d773cfebb5b5fe3f073eb6e85d55f2c8606744dc5399a728ba6b1e05e5c"
+        }, 
+        ["/Packages/_Index/AvatarExperienceDeps"] = {
+            source_hash = "b822496d49d5698b39e0239c387b4c59ed6e023234efdf21635ce23c407df626", 
+            dep_hash = "54dab61814f41fa5df5c92c87a386322e4869ae5c58799b1ff3e26b59076c703"
+        }, 
+        ["/Packages/_Index/Boolean"] = {
+            source_hash = "541019a53e18a92c11fe43ad88f6ed6b1a0901a3e2ee78037429ad5ef737c395", 
+            dep_hash = "3d8cd050a2768d7094f62ee78273754b43ce0855d392961e866382c51a0deb31"
+        }, 
+        ["/Packages/_Index/ChalkLua-0.1.3"] = {
+            source_hash = "caa756e024d2ca2601bfb16a875e22cfcfa5317b54dca2f2db1661e670cab606", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/ChalkLua-0.2.0"] = {
+            source_hash = "ddfe366eddd8da2b0e936ee0db8c97670d65892abc0a018ef594d7dca52a1a50", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Collections"] = {
+            source_hash = "00aaa4372699fe34dfd7e7544a5836619752a4a1a81efb5ae5d826b8ec00f97f", 
+            dep_hash = "cb046b6625062c45f2d778283fd4f6dd399bcc340558d1000180a3d89dc20242"
+        }, 
+        ["/Packages/_Index/Console"] = {
+            source_hash = "80258e5fc686c5c73c933ac581af6417343d5ff9c6d187ed838e3cc40661e745", 
+            dep_hash = "04695ab46827541b23c4e47fe0c5bd500809c2cbaa3ce44572927726986590b0"
+        }, 
+        ["/Packages/_Index/Cryo"] = {
+            source_hash = "fb115a74e7ad2eb01ab6b742b5c99e9c3c39a366ce0f8cc4bc26286152650f4e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Dash"] = {
+            source_hash = "992056fc4f6d54a33fa49003cac6e64a3aeb9fdc44f7704265faa0a61e45c603", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/DataLoader"] = {
+            source_hash = "742fa6b060e41352514476c32ed0057facabec7e6b623207d897e5d5da6cc667", 
+            dep_hash = "dd9840b84cdc8613592475843111233ea5cbe2e72cd29af3c1ef1e6d4ebc2f37"
+        }, 
+        ["/Packages/_Index/DeveloperTools"] = {
+            source_hash = "120f2b2a42a7fbcd95b7b92dcdfd95a6aadcee86f14ef9d87b5cee001f6c073a", 
+            dep_hash = "3ef2119d4d5106063c791a09d1f13e2a2b9608187fbef95558b2c30eff35d10e"
+        }, 
+        ["/Packages/_Index/DiffSequences-2.4.1"] = {
+            source_hash = "6693e246ab02f10418d856718dc1d918930e53ea64d3d209ac868d133852b7ec", 
+            dep_hash = "54ec6681255125b6dfb7568291e78500303d8b8879e1f8daca353eb252e4b737"
+        }, 
+        ["/Packages/_Index/DiffSequences-3.5.0"] = {
+            source_hash = "67fb718d3f794f98ec7e5c611925c7099781ff93a20f9e9fcbb271821d2ad47c", 
+            dep_hash = "e4b95c6c9be9e1df584de664cdfe54b879c2a13b0f714269ecabafacf0832e58"
+        }, 
+        ["/Packages/_Index/DomTestingLibrary"] = {
+            source_hash = "28a591d451b24c4a6ec23f996a30a189dcd0599d80a96f24d08768bcda1022d9", 
+            dep_hash = "d65e9409eb5c7735f309c228988234affb3a7acb723ea6494d534e0ed70ef79a"
+        }, 
+        ["/Packages/_Index/ES7Types"] = {
+            source_hash = "16b62ce27acd7d2b27dc4b2e12828c003cd34b21620ee51935b6752dcabbca5b", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Emittery"] = {
+            source_hash = "68be078cd9fd2f3ef55edbb80429c730595eae4def98a46469d33f3c493daedc", 
+            dep_hash = "dd9840b84cdc8613592475843111233ea5cbe2e72cd29af3c1ef1e6d4ebc2f37"
+        }, 
+        ["/Packages/_Index/EmojiList"] = {
+            source_hash = "9639d93aac09379591c60666e557123adf08ee3b73b69434bcf854ceae263e71", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/EventPropagation"] = {
+            source_hash = "d5b51de564f7158e9c6e40971645c7f9a980e1384de3193bc586557b6695cbca", 
+            dep_hash = "06ecb1a670d89516d51c43c1f820d6d96b01416285dd7f5cd35478d51762415e"
+        }, 
+        ["/Packages/_Index/Expect-2.4.1"] = {
+            source_hash = "f127a117021bf769b079a61de72d4bb11402a1a6b23f4f20605c64325a81b983", 
+            dep_hash = "ab81a48391ad3c1f071ff1992e165e0696061efff090f5e02509ce9233806970"
+        }, 
+        ["/Packages/_Index/Expect-3.5.0"] = {
+            source_hash = "7b8c94545af1f0508ccf5034829643295db13f6152c2e726ae0d4e4c4040cc93", 
+            dep_hash = "bb7ae52dcca6f5954d1dd70d44e8b8561850976146e9dd43f87e3aff7fa17768"
+        }, 
+        ["/Packages/_Index/FocusBehaviors"] = {
+            source_hash = "9d3829a5c120e02e36a0bb4352df6d47b0560abd8ad5d70274e6f2eb77b10cad", 
+            dep_hash = "1bda82228a1d338ebfb8ad5aeca67a9ed4a1e49bbf47f42b7e22348997091f6a"
+        }, 
+        ["/Packages/_Index/FocusNavigation"] = {
+            source_hash = "9ff30cecace4304c0de07088bb3cb65794ab5d9b135736194e6d66dbc2775e6d", 
+            dep_hash = "011426d8b87498f0081a8c4f944482b972a015f941494272f02390db565ff1e4"
+        }, 
+        ["/Packages/_Index/FocusNavigationUtils"] = {
+            source_hash = "2809eb7c0c80543a87d536f688fc3e4cf2f8a8fc24d6732166b2a9594f553fa4", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/GraphQL"] = {
+            source_hash = "1dc7434a8b307df6ca518635cb469abeb864b5129a34902eb2a894a61ee4ae4d", 
+            dep_hash = "67bf7fb37bd82ed7f7da1ea52093a670c186a49d698c128e555709dd38adb29d"
+        }, 
+        ["/Packages/_Index/GraphqlTag"] = {
+            source_hash = "112baf1a4791f9cf9a8d7a03122ca1355b903126414a51352dbc594f4d09d6b9", 
+            dep_hash = "1cbcfa7f8db687b69865f5d0880d04e1f52f1243b1b547ed7c3e8cf4e96f2453"
+        }, 
+        ["/Packages/_Index/HttpRequest"] = {
+            source_hash = "35a229df5fe43076e797ee67f9de3cb23f94717b303d53695a36625f4184b8e8", 
+            dep_hash = "344ca9cafc4d2d428e9b2c4ba0a74ca9acb69e4a87c2abf699e78571abfbecfd"
+        }, 
+        ["/Packages/_Index/HttpServiceMock"] = {
+            source_hash = "1ac427efd650ebb219cf060ebda4f9daf2337acc42594c5037dccbf1ae37c5da", 
+            dep_hash = "9958f9dc498aa5076b6f5631ae83cf9954c1d7ad940297a7a8468ef24feed7fe"
+        }, 
+        ["/Packages/_Index/IAPExperience"] = {
+            source_hash = "f7d90f88a45a8b22f36e9d6a2485fcfe2a02d6ae77421116b8599069658be6dc", 
+            dep_hash = "5603265439dfda695d5222b611d88653979b2426a90fde056d0bbb391f831b2e"
+        }, 
+        ["/Packages/_Index/InGameMenuDependencies"] = {
+            source_hash = "435bab406c938f810f831c7e5611d3749c3796b571d774f6239b8c87d0c5ed08", 
+            dep_hash = "3ca538af0b123c5a02e24440ea08c9cbe8429200ec4efd5433aab6d00f02cb69"
+        }, 
+        ["/Packages/_Index/InputHandlers"] = {
+            source_hash = "a293d08b658a90f667768e16b2bd0b54ccfe74667aaedef7450c7b10a4de09aa", 
+            dep_hash = "1bf050f3f30d8611a82aead3d4c0afe82befbaf5d01a4fb436c91e56d9d147af"
+        }, 
+        ["/Packages/_Index/InstanceOf"] = {
+            source_hash = "dae07994ab6d05f491a3a4f647491c2536fa3ebb01cf4976cddc6404d6f1fc47", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Jest-2.4.1"] = {
+            source_hash = "190ca946c638722c701cd22badfa960701bbd44b9da7ad0511ea6066ac22345f", 
+            dep_hash = "c9dd3528dd15121007850f0196c40fd4f0ed9beeda6bd074c3bcfc0b46c76c05"
+        }, 
+        ["/Packages/_Index/Jest-3.5.0"] = {
+            source_hash = "7eb460de68054f726eda910b9ef3910881cdf8149116417e7c850c3ae9c0cbbe", 
+            dep_hash = "30592dc3be3dc707da2a4d19ec70fefc91d0fcb6dc54c249a73fd1ca75c6f6c9"
+        }, 
+        ["/Packages/_Index/JestBenchmark"] = {
+            source_hash = "3b84e19d9468af7bf6ca5fbb1574a3d1b26031f123c2ac3f85ade39917ff398b", 
+            dep_hash = "be8e05a2d1c0ae18b7bcc7d1551c206a9cae608cc2a1adde8dec1359c7eb7688"
+        }, 
+        ["/Packages/_Index/JestCircus"] = {
+            source_hash = "ee523ca94ff4276a3220c38542d52cbaa12ab3db66b6a13afa2b231489275981", 
+            dep_hash = "b57e4e6ac79e6bb6486e8522379702ac80d4d7f5df380ed5fc4a9384d467aefe"
+        }, 
+        ["/Packages/_Index/JestConfig"] = {
+            source_hash = "b708118beab8f7be05761783c11b46f6996bbd83b866c4b2a4c5bf45b694aa1f", 
+            dep_hash = "387cc81a7a60855652009cfec5240803bb259fe9628d096b018913db7216da50"
+        }, 
+        ["/Packages/_Index/JestConsole-2.4.1"] = {
+            source_hash = "4544c27747e89cc6c70e05fec60d1af0c0abb73dd443f94c2a93f73d4ffbedc7", 
+            dep_hash = "f1f840d49e427062eb1de38611c921df21e86ae7528ce6419dc47db27964a20b"
+        }, 
+        ["/Packages/_Index/JestConsole-3.5.0"] = {
+            source_hash = "61d250dda9e68597535e3fbaa85203cd458d80222b77e6c99159206288baddd8", 
+            dep_hash = "ed9bbcf6f8fe9b91427f2bfef756ac2870e477f2c1884c05d9488c8f131bc9eb"
+        }, 
+        ["/Packages/_Index/JestCore"] = {
+            source_hash = "c030df4c9d7e45f6477df4513128ff086cc57f88ab3ebf7cd087d1aab8568771", 
+            dep_hash = "b27fd2bb64fc0ed81c165b53be695080cfd73ce8461ca181e74e5f291f5c618d"
+        }, 
+        ["/Packages/_Index/JestDiff-2.4.1"] = {
+            source_hash = "bb8c6c5734182723d6b38d67a99e47256c6f936d03ff943ce815ccb77b350cda", 
+            dep_hash = "b627fb76258711d2f72ca37c0bcef13929e1e8b54d972971502f911e211f3833"
+        }, 
+        ["/Packages/_Index/JestDiff-3.5.0"] = {
+            source_hash = "3c9dccac21e3521f150281fabc0bec45cdcde99e12726f9e4e20bf43735fe151", 
+            dep_hash = "530dfcccd33d282a42197d34302b5d842432fce77f830a99b7c66255fff9bab8"
+        }, 
+        ["/Packages/_Index/JestEach-2.4.1"] = {
+            source_hash = "473c78f5a6318dcb940d56d00ff27b0566737cab2df101d71253ee71506ac96a", 
+            dep_hash = "738d91a60b39c2f8fa13fadca22d72f2044fc76502ee6671e48f5ad69907f9be"
+        }, 
+        ["/Packages/_Index/JestEach-3.5.0"] = {
+            source_hash = "71aef96249d48d775f681ae3de0aecf817a1a53ce4bb8da6f7ea8cb4bd17f5e2", 
+            dep_hash = "df96c36186923f4649577ca8f75ff2f63f44958fc8ab8e8fd1c5f202dcc61a98"
+        }, 
+        ["/Packages/_Index/JestEnvironment"] = {
+            source_hash = "2e9d892d2db9b3e2a0a09f64f2e4e4062fa35fbf431d1d07fbfb512d54e55011", 
+            dep_hash = "14db137334713e56fc4e09e4c6e394588bfe17b203fb95bf33b2520a992c53c9"
+        }, 
+        ["/Packages/_Index/JestEnvironmentLuau"] = {
+            source_hash = "865354fefce81b02c346bd6be1aafb75caa363f6729257058065ef568ac4c068", 
+            dep_hash = "f5687cf7dd0facf33b7df1f41aa691fca5548d1310ffcb7da7b02a1b9087f31d"
+        }, 
+        ["/Packages/_Index/JestFakeTimers-2.4.1"] = {
+            source_hash = "00a7b2d0d5d63abb685fc64d43355d7279ff2569da78f2a52eaadae883e901f5", 
+            dep_hash = "20dfa808ee3c610c6a4170cbcc4eed9e0ec7c82c1f6461c230c1ae88b513305f"
+        }, 
+        ["/Packages/_Index/JestFakeTimers-3.5.0"] = {
+            source_hash = "ac3bb555b3329e45a7941a3e036db6959ee131d6b0237b55dbe58b28ff583db6", 
+            dep_hash = "2eee72300f3b20ce2c15dc2d4cde8812354febc31b1c21d6fcedb1850bdc7d72"
+        }, 
+        ["/Packages/_Index/JestGetType-2.4.1"] = {
+            source_hash = "26671df456eb5b7be26bae50d4615724eea440eba2214a816217ebb2c76eb349", 
+            dep_hash = "a937a60efa4663f6ceb9982a99717a56a6e02d089aa2e3ad9cdfce8c8a5a7f42"
+        }, 
+        ["/Packages/_Index/JestGetType-3.5.0"] = {
+            source_hash = "b6bd8a73c19d76a28534bfe20cc5875f33dd3fab7b4a005a82d756e4add6f078", 
+            dep_hash = "6e73c4e9dcb87632a48bcaef9861260dbb80e52e06b30dde87fe0585f54299b3"
+        }, 
+        ["/Packages/_Index/JestGlobals-2.4.1"] = {
+            source_hash = "4f943df23fe77af137e7b4df6d8a54814fe16590306829eddc433063bba02181", 
+            dep_hash = "e6a0980745f793d3e8b51d399b28003a9e4606ea24e3ee07ee4d435af15623cb"
+        }, 
+        ["/Packages/_Index/JestGlobals-3.5.0"] = {
+            source_hash = "eb9a2d1e6fb9972be01454294f253f8ee44dff8c8b27fb0d461ffbe88c892b36", 
+            dep_hash = "62782ffd8fdab93baad0a04766e2ac146b461811d4f12dfd6739e3a1813ac6f9"
+        }, 
+        ["/Packages/_Index/JestMatcherUtils-2.4.1"] = {
+            source_hash = "abd9ab4094efaeb920e1fd6234b636025a04c8b370276c5705ac9d3e3fcc730c", 
+            dep_hash = "233156893d03d7bd3a47758992b09161eca20185ed84567de2543c7934d7d56d"
+        }, 
+        ["/Packages/_Index/JestMatcherUtils-3.5.0"] = {
+            source_hash = "161a94b92f08fba517024d87aa531fbc3971e669082c8d661b4af3ea1017b164", 
+            dep_hash = "4f2413b65fb38fe5cb0e5f49f99d4e0ce013133c7b57bf52a3d15e1a7cb419bc"
+        }, 
+        ["/Packages/_Index/JestMessageUtil-2.4.1"] = {
+            source_hash = "aa999abc1f664c7503fbf99c499a3ca55df3d924a088f58cbd66bf73e256e84c", 
+            dep_hash = "54ec6681255125b6dfb7568291e78500303d8b8879e1f8daca353eb252e4b737"
+        }, 
+        ["/Packages/_Index/JestMessageUtil-3.5.0"] = {
+            source_hash = "4722d506247260461964bedabc552606a00d197508e3e42f5447459ea09c7a59", 
+            dep_hash = "bc1c28f8a6392f7da944d4be269f6cb174d4983e838c46ebe382f8c723328f65"
+        }, 
+        ["/Packages/_Index/JestMock-2.4.1"] = {
+            source_hash = "c633c60eeaed94c9c4003b7c989c1a4537bc0a736aa535afb5def2a38ecf1004", 
+            dep_hash = "54ec6681255125b6dfb7568291e78500303d8b8879e1f8daca353eb252e4b737"
+        }, 
+        ["/Packages/_Index/JestMock-3.5.0"] = {
+            source_hash = "f6c563c33d1bfc154414779fb9418ebcb8d3d9e3780a1114a900027c3ef599bc", 
+            dep_hash = "e4b95c6c9be9e1df584de664cdfe54b879c2a13b0f714269ecabafacf0832e58"
+        }, 
+        ["/Packages/_Index/JestReporters-2.4.1"] = {
+            source_hash = "974821ff4f046fe4095e521a24354ed48a9a9f1d4b4fa30e64ae5e5253593240", 
+            dep_hash = "75134ca366415154959a08a46d837f2423ab6401d44e5fca273e2d772337c581"
+        }, 
+        ["/Packages/_Index/JestReporters-3.5.0"] = {
+            source_hash = "499c3897dc06a15d9b7a5307c6fd6920d83ffeb2685e9a0a1d0a82eaafbf2caf", 
+            dep_hash = "887593e0fe6bce613ce6510bd569d34ef940071fa32b1ddf9881ca341c822560"
+        }, 
+        ["/Packages/_Index/JestRunner"] = {
+            source_hash = "e57fc919d606f6305632f5d13d87a97769f8b84088376be2097eb4e25b4d47e1", 
+            dep_hash = "7f82ea0e787269ed02eeb02428c48add5ec323540a3f7d72e833007e146a0058"
+        }, 
+        ["/Packages/_Index/JestRuntime"] = {
+            source_hash = "82859e28b7c2201ac3f13b3a3207f0c4918a443935415085c1fca4177aef9778", 
+            dep_hash = "20ca905ee67168de043518332f0248b74b26d39ed5c06cb4f38337cb5391e29a"
+        }, 
+        ["/Packages/_Index/JestSnapshot-2.4.1"] = {
+            source_hash = "a149f723d3b854a0b187b94f449885f9855e2d1bf44961205241d0194cc4153e", 
+            dep_hash = "34e6c2c54341c73103ec9ae9f73da2cdb5e32e52abc719aa559c2ce0b78ccbc2"
+        }, 
+        ["/Packages/_Index/JestSnapshot-3.5.0"] = {
+            source_hash = "a372d45e31b303b258c02fe9c7ae22ad6974eae2e09ed862d785b468471e22af", 
+            dep_hash = "14f1055568c30fb02a35613ff1046ee0cad2a6cbf9bdb949e18ec292076d6ec2"
+        }, 
+        ["/Packages/_Index/JestTestResult-2.4.1"] = {
+            source_hash = "06d3eb86cb7c754e440b9e600333bc50a0ade312fbadc1eaf31c43fd68ed397f", 
+            dep_hash = "4c632294bbb663e8ad3b231ce5c70adb0e50f1d7d0add370611cefcf1e7ab897"
+        }, 
+        ["/Packages/_Index/JestTestResult-3.5.0"] = {
+            source_hash = "822f64daef3b52e97ed6f631caa611205ede65cb0dc3e4601c4653a2a7b23663", 
+            dep_hash = "217825e28e41a0a6b8f62c380f7d8c90c19e9a147df6cd3757519103fd141184"
+        }, 
+        ["/Packages/_Index/JestTypes-2.4.1"] = {
+            source_hash = "6c791a04b83c96b03b93d6e16d7c89c8f5985d98f7982c8a7cfea154d4d4ba98", 
+            dep_hash = "a937a60efa4663f6ceb9982a99717a56a6e02d089aa2e3ad9cdfce8c8a5a7f42"
+        }, 
+        ["/Packages/_Index/JestTypes-3.5.0"] = {
+            source_hash = "260d73935522a6cee837fed58c002c269f7d7b95c41d645ca08b7263c4dc79df", 
+            dep_hash = "6e73c4e9dcb87632a48bcaef9861260dbb80e52e06b30dde87fe0585f54299b3"
+        }, 
+        ["/Packages/_Index/JestUtil-2.4.1"] = {
+            source_hash = "991e795994af2469d636223fee9b12e8dd33795efedd5afd323a3e0eb0617b0f", 
+            dep_hash = "16a9e3fadf88b2657046aa4d1e1c5e902bd39bad871da7bd54734ddef1488fcb"
+        }, 
+        ["/Packages/_Index/JestUtil-3.5.0"] = {
+            source_hash = "7ab0f15be06986a5eebf17904955e3ad62050d857990f89dbf230129ca5df779", 
+            dep_hash = "cc5c86477dc2f89abd27141aaae8d5463c5d6ec6b7626e0ad6df6e8af66aa9ef"
+        }, 
+        ["/Packages/_Index/JestValidate"] = {
+            source_hash = "735ee17036ddb551071913dc87a4d57efc08f9670cd4445539485f549c1e9a1b", 
+            dep_hash = "20e1d57a0e94912b39a27bc08e87038424d2415ffed58f34645c9638d3f684f1"
+        }, 
+        ["/Packages/_Index/LazyRequire"] = {
+            source_hash = "6ae42c5d724d3b544b7c947ebeca03edb71940195c71ecdbd52fbee6f300efcf", 
+            dep_hash = "3d25c2e1fe13c2262e8468f347a221c356c8f9bfb4b04c225e22888a675d4824"
+        }, 
+        ["/Packages/_Index/LuaSocialLibrariesDeps"] = {
+            source_hash = "d6e1b393cdcbe566f2b2331eaee5573beb4a2aeb6fcbd3cf2f403075d4b97c2e", 
+            dep_hash = "8f0f2bcd186ef6b548f5fefbcd5fcf18b39f1f144a072e96aa36cbd5ea863da6"
+        }, 
+        ["/Packages/_Index/LuauPolyfill-0.3.4"] = {
+            source_hash = "a631bd689df600f63e5a7469bf023353ce25357b5ebb5284dbbba9195bb6e150", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/LuauPolyfill-0.4.2"] = {
+            source_hash = "6a5b251d8c1b00ba8939e226ecd4934f0c7b388920de90bdb98e419b93ef7a01", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/LuauPolyfill-1.2.3"] = {
+            source_hash = "ffa6aab084c61032bb3ee4e278994e5668ee7acb944d848f0d69354f74b8742e", 
+            dep_hash = "f4059ff8cda293c7007c87cd79ac60cddc629382962565b1ee40cb43e6f0bd73"
+        }, 
+        ["/Packages/_Index/LuauPolyfill-12e911c4-0c4b13ff"] = {
+            source_hash = "5475da3555f7568c0b7ef2c4112120828a5c86e6246df823adbad850b85e526c", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Math"] = {
+            source_hash = "657863e99c9bbe9ff32417c529c4a4f3daf503fab52a34af5579fcd6ba66da8b", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Merge"] = {
+            source_hash = "6d1d4f673e2f1b42833e4065920da776d1698e1202378cac9c4977b5cca92668", 
+            dep_hash = "fd92d4336b9ba3e08b4a750a0084cb110c25a4f4b9a346ba996f8b9a12feb672"
+        }, 
+        ["/Packages/_Index/NetworkingAccountInformation"] = {
+            source_hash = "badd92b3880419a571ab71339fc80ea1446c7ec3d86d2b184eacbb4efcc0b796", 
+            dep_hash = "3a1a3f3c4fbd72ed6c9ca3fcaa238c37d9a963297eb1fb3ef569e87c035fd339"
+        }, 
+        ["/Packages/_Index/NetworkingAccountSettings"] = {
+            source_hash = "51f7596f5f60b2cace0d96f84a442e460e078b26bba9fbaf2233427bcba0e0c6", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingAliases-0.6.3"] = {
+            source_hash = "66c8ae5470404cf7bb686861d72ff3b8a541066e79b512ec855535e9d7f8b464", 
+            dep_hash = "3a1a3f3c4fbd72ed6c9ca3fcaa238c37d9a963297eb1fb3ef569e87c035fd339"
+        }, 
+        ["/Packages/_Index/NetworkingAliases-1.15.0"] = {
+            source_hash = "315437416b62a1bed26f2ca8959f051dc27fb5b5c8043838aa4b86bc3731ac85", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingBlocking"] = {
+            source_hash = "7bb03b0eea60bc3c94240b2f76a3d42a3d59fc79d1acaa5eb50f4d3a63380c1b", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingCall"] = {
+            source_hash = "016586411badd8ab33992f1a67580b9db3071ae2499a246aeac1dff0daae5997", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingContacts-0.4.2"] = {
+            source_hash = "49266b692e102a31ffb7d7ba795541d56185f5579a82067cc7a6c9a639a82813", 
+            dep_hash = "0e52869cb06a247273c8449183e97f4a121025f361dff3e21575f613f1c119b4"
+        }, 
+        ["/Packages/_Index/NetworkingContacts-1.15.0"] = {
+            source_hash = "324d23870ec2fdc19ee08057a3328c37f9cf79a1be1d709d5d9460da3ef61c0f", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingCurrentlyWearing"] = {
+            source_hash = "ee6fab32323a15a0a7f0ec500b4b8870b4f37d756ae31e82c6b41c534c70dbfc", 
+            dep_hash = "0f119a7b801a122cb2aded5aa79e42aa9c1df0f8e1182b24791d837b2f8ae802"
+        }, 
+        ["/Packages/_Index/NetworkingFriends"] = {
+            source_hash = "a44e04c04bf86101c2b997317a5e9bb9910ec2906b780c232ae4ec50e68ab3e9", 
+            dep_hash = "91849711cedcee59f78dfa3bd9c455f1d312c5698f01d570a6bd0d14187a5cc4"
+        }, 
+        ["/Packages/_Index/NetworkingGames-1.2.0"] = {
+            source_hash = "fd5c5db3628c95cb1c11ee62ab0d7bacf74745536cf49423898d6839bdd4d08d", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/NetworkingGames-47864141-05d37b25"] = {
+            source_hash = "7a13da3c15163ff5d0b6e0bca4aae34b5354880cca7c7f57e5e93bb5c71e4287", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/NetworkingPremiumFeatures"] = {
+            source_hash = "33061a3abdcfcaf7505fd443da5285b5be81218783694baa8eb249789a401d83", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingPresence-0.8.0"] = {
+            source_hash = "2ef398fca393979c03421f66e5072315e103de88e369a33e8888883c627928f4", 
+            dep_hash = "584e5d3e6c09be48d438e3aecee04eb3237262a533aef4c20234939bf569ad82"
+        }, 
+        ["/Packages/_Index/NetworkingPresence-1.15.0"] = {
+            source_hash = "58c71d3946be3f3f19d6e02a5e8d44efc278ab8922f190031575e0c26ef4f7da", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingShareLinks-386ea8af-15eccb0a"] = {
+            source_hash = "cd0b6c9b8291d3ffa143ded1dd690e29c8d8d1e22826c6a1d9de0d047dd794fa", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/NetworkingShareLinks-3abfa7a8-30ecb2a1"] = {
+            source_hash = "0acda0b61599c7c8cb8b88f11089cbf25e3794fee515b6f059c0273158d9682a", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/NetworkingSquads"] = {
+            source_hash = "e5e8fbe2d6d71c6b3b88e8780473cddae6627f089d4f9e2deee29e77d323c864", 
+            dep_hash = "aff990f8f7597d23c43e78f3fdf780fcb4d673353bdc3dbbf65f1cdc9b02e0ae"
+        }, 
+        ["/Packages/_Index/NetworkingUserSettings"] = {
+            source_hash = "9251f1c89446aea2f3ee00ff7d7846449558e3ad13912a4be99594d92cb5b8d1", 
+            dep_hash = "64c0b45e4f4afbcc91c21778e846f7f6a1712957332175f545eda227e5d2c3f8"
+        }, 
+        ["/Packages/_Index/NetworkingUsers-1.2.1"] = {
+            source_hash = "70ed672dcbefd79d7d1aee8c0756d0eedb0adc9f632770ad9867feff894806b9", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/NetworkingUsers-56568bb5-5eb39145"] = {
+            source_hash = "8ce2851aa50b2e66bb6c65b8ca4ee3dc009e124eb6a652e05006537eb6a3e593", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Number"] = {
+            source_hash = "3b576120e6f21b49eb7a726c80239b145598930ca3c6b23fffd9755d27b50a7e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Otter-0.1.4"] = {
+            source_hash = "276ec44b6ae1622f9a1aa2b1acefd89732caa403e98c4d16303b4b0227c207a3", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Otter-1.1.0"] = {
+            source_hash = "efd76bf081f9712e7f8642c7f4b5810291809e210804e70a3cb393d732181e70", 
+            dep_hash = "f5d2150a5b649ead7b640b08daac100c01a91c57080c592c4de404516be9c587"
+        }, 
+        ["/Packages/_Index/Path-2.4.1"] = {
+            source_hash = "b76b6e92176f9fb879cd2cf05c7de047ffe1324f9d56e2193de6457a739c13b3", 
+            dep_hash = "54ec6681255125b6dfb7568291e78500303d8b8879e1f8daca353eb252e4b737"
+        }, 
+        ["/Packages/_Index/Path-3.5.0"] = {
+            source_hash = "509b3ed6c0f1b69d50f584ce575ca2011a9dd145ef7ce1a4ff1ab1d3aefa3708", 
+            dep_hash = "e4b95c6c9be9e1df584de664cdfe54b879c2a13b0f714269ecabafacf0832e58"
+        }, 
+        ["/Packages/_Index/Picomatch"] = {
+            source_hash = "1ca2af2827b1927b1b747a4a96815ad09c68178c8aa3a33572c2030311969717", 
+            dep_hash = "585442ec7a58547307e35aa91ff506a866df0d4fc38909965c1c3c180a6ec503"
+        }, 
+        ["/Packages/_Index/PremiumUpsellDeps"] = {
+            source_hash = "8021c0a98fd20b9bbd5e34eadd1f9ce87884cf363e34c352bca990fd20a45ad4", 
+            dep_hash = "54dab61814f41fa5df5c92c87a386322e4869ae5c58799b1ff3e26b59076c703"
+        }, 
+        ["/Packages/_Index/PrettyFormat-2.4.1"] = {
+            source_hash = "cd59e861908db3dfce087b2047e52da5e55bbaa1d5292b00bf5891d34c5c1f6e", 
+            dep_hash = "92162d46450a7725c1eb9212862437b705e12ea57385e01a73fdf5bc5277271a"
+        }, 
+        ["/Packages/_Index/PrettyFormat-3.5.0"] = {
+            source_hash = "f6cc1f067b20898090153c40de14a2232749262cf32880583978c15bb046a2f6", 
+            dep_hash = "f46aa4644811147a94669b9c8e47816dbaea356cf9e2fc043cc4dd5c47d20b8c"
+        }, 
+        ["/Packages/_Index/Promise"] = {
+            source_hash = "f85d5cf5d039aaaf57de167d91eb88894f285e4f1211d49691bc04860625a8c6", 
+            dep_hash = "3079146a6c91729db2ddaad28e010b8acd3109a0342cd6abf8b47d8fed872766"
+        }, 
+        ["/Packages/_Index/Promise330"] = {
+            source_hash = "0e2b567d4548cfb2148e2a787a9e4ba278f822691b42f8d8538e08edfe9d28e9", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Promise340"] = {
+            source_hash = "ae54c030e8e23f66bdd9ef0f855b5476eff57ab67c6c87c2f43f99287955de6e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/PromiseUpgradeFlag"] = {
+            source_hash = "02ce53ed34b952be778ebc203a440554dfd4f9b4fcb303027c36b284a84dfd26", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/PurchasePromptDeps"] = {
+            source_hash = "aa2089b8bfb4a911f8968ecdfb5321b4c258d29aedda2e3c97da94ca5ef46afd", 
+            dep_hash = "db4e85f82d42017449c04f07d69519f1a4abad5af90f6fb92ca66bc10372ec7e"
+        }, 
+        ["/Packages/_Index/QRCode"] = {
+            source_hash = "84e221e15037fa2354efe0c19605de568911521c2bce56fd63297ad1bf0ce17c", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/RbxDesignFoundations-4f0cd42b-a744f1a5"] = {
+            source_hash = "1b7e92f30dd812c9a7558569521c51cff37611a222ce303937aa048db3907454", 
+            dep_hash = "23291696aec98290fbb870fa3467561a4ce263ab228f9d35f774be3549438fca"
+        }, 
+        ["/Packages/_Index/RbxDesignFoundations-e7e73050-fd2e104b"] = {
+            source_hash = "cc6a524315af10fa628b392bc58ba04e8557ac1769833a9cd271cb457f5f960f", 
+            dep_hash = "23291696aec98290fbb870fa3467561a4ce263ab228f9d35f774be3549438fca"
+        }, 
+        ["/Packages/_Index/React"] = {
+            source_hash = "555b8bf25b1f7e766bab311921cf249141daba7935a21c8e5690a08fa5ae3aad", 
+            dep_hash = "31a2857e3d0ce2adde94816f07dfd9046251207fd8f729591a9f7953e08b323b"
+        }, 
+        ["/Packages/_Index/ReactDebugTools"] = {
+            source_hash = "6d63677f5ae6ad6ede5e395938a098eb45712eac68aca84bd487185cf1c90e3e", 
+            dep_hash = "8ee8b0879a166635805bad0d7646f4872b9b557b2f948f051427ede37d747cb8"
+        }, 
+        ["/Packages/_Index/ReactDevtoolsExtensions"] = {
+            source_hash = "b782e79fd8a5da88e12effd09e0388e3b75bdafe736899ccf63ad67208840cfa", 
+            dep_hash = "b702c182de65b116f9f9afcc5849c420470aaa1af414fc63bece92092ffbcdfd"
+        }, 
+        ["/Packages/_Index/ReactDevtoolsShared"] = {
+            source_hash = "daaf52fcf4c83e461020ef0d159b95ddbe9360dd4a521bea1df47c5d4c878d37", 
+            dep_hash = "907f76d048854706711aff708eebb3cf61403fb20f99b48fd5f7c2b18fd67caf"
+        }, 
+        ["/Packages/_Index/ReactFocusNavigation"] = {
+            source_hash = "36d0c07b88043e23a41fbaaaaea41c822ba696097013c0ef74d10ecec2d8d0c4", 
+            dep_hash = "691c771c870797b115eee9ac302cf08d5e4b502551bf6fb778b0a99b2721ff10"
+        }, 
+        ["/Packages/_Index/ReactIs"] = {
+            source_hash = "c3f65aa3d81e0668727d0cc34d065d6a54a0bb1811d2d381700ddd558ebd5050", 
+            dep_hash = "c33a1278f1c88f8400110da7304af8d9dda3e21ccd6db634c54505515170b3eb"
+        }, 
+        ["/Packages/_Index/ReactOtter"] = {
+            source_hash = "0ac4d5f2a079167d2fa3ca61fd1de29ccb386800ea717eabfe1a7c68d75b4409", 
+            dep_hash = "9db154dc2e6966dc9943596f8c85bdf9ce1e500ca97da05098da4c81c7aba77f"
+        }, 
+        ["/Packages/_Index/ReactReconciler"] = {
+            source_hash = "c1df604fe43ff773564591dc875c6208070bf6062f2eedad6cb135e57d7391f6", 
+            dep_hash = "4e4bb3f2c37e710a3ee13a0fbe2f63543020443deb444cfb09125348fb1a1697"
+        }, 
+        ["/Packages/_Index/ReactRoblox"] = {
+            source_hash = "bbe3f75236604d0a3108a8a9d090559d6b1586c2e8d8f88c068a1619e925e06d", 
+            dep_hash = "8f4717bc3d420fdb7759c33d36be1e8ee00a028704b5161dc7ecde74fb167634"
+        }, 
+        ["/Packages/_Index/ReactTestingLibrary"] = {
+            source_hash = "8dc9aeec58a3a7cf38dd296ecd4513b64ec17761e408ee3ef6666ddeb1d59dff", 
+            dep_hash = "4ad08c5abfd75b517128ffbf6d0c29a4a6dfb49bf248b6d1ad2c5a83d40c073f"
+        }, 
+        ["/Packages/_Index/ReactUtils"] = {
+            source_hash = "bfd9efffeaf8667c734c4ca028d684069f9a4107d6da5769aec4d5a11abbbd66", 
+            dep_hash = "83f81391a144b936fc02b8f29c56690851f296d8418ed3225a8544af4a0178a1"
+        }, 
+        ["/Packages/_Index/RecordPlayback"] = {
+            source_hash = "a2681136efdfa29a410195ccf143a436c24baeed0db9b949601b0fa0abbf1126", 
+            dep_hash = "1806e10fc8186ce91df40f83fb4a0fe37c031dc9e5f03447e40b34bc86691c19"
+        }, 
+        ["/Packages/_Index/RegExp"] = {
+            source_hash = "727ca78d315de581eaae09438d537404c310c78a45dbd7b03b8b14c8128bfeda", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/RequestPipeline"] = {
+            source_hash = "a69434137872de7b70ffd2822f0cbcec9601d2d7576a3daecfdd69e7c90970af", 
+            dep_hash = "3ef32b31b42f9e5b94dcb68348322c07996512355fde7d83695fc09d58790413"
+        }, 
+        ["/Packages/_Index/Rhodium"] = {
+            source_hash = "b73a91175454857f423a5be81866e6c708674292580d151013a21b6273aeb560", 
+            dep_hash = "3dee51d2e28b59949ac1183f026a22ae603490fec04541d2e2175442d421918c"
+        }, 
+        ["/Packages/_Index/RoactAppExperiment"] = {
+            source_hash = "d4f1ec79223901d14445e01d14f1e730f32b3312331d38de3e3e53e2a66f11ba", 
+            dep_hash = "a54bc4d64fe07e32b678d5c0a149377b430116c1f02fac316470e7a26c31e8c8"
+        }, 
+        ["/Packages/_Index/RoactCompat"] = {
+            source_hash = "71032f03a473d7b31480ccf1a96d94f3dd775ed0a8277ad1953e5809c3ce7e91", 
+            dep_hash = "272dbd525077d1f5203c75454919f094301f5910a0b92d62968877f8d2448898"
+        }, 
+        ["/Packages/_Index/RoactFitComponents"] = {
+            source_hash = "908ca6a17e1f109956037bcc6fce83182eccf0e09988699844eab79b5213c821", 
+            dep_hash = "455aee821c86c84b40355a39d7e92edfa7319003d9c3e5678b9b5eecc9d21971"
+        }, 
+        ["/Packages/_Index/RoactGamepad"] = {
+            source_hash = "0c3265fc52f7601e818ef44487ab1c2204ed245beef7e1905b2854c927270429", 
+            dep_hash = "33baf06a03d2f021897d27e3cfe752b3d35d05d346a84b6b5ad2fb5db094ffa7"
+        }, 
+        ["/Packages/_Index/RoactNavigation"] = {
+            source_hash = "034795bed1c94a998f43158ac1da05f7545b109f6d9f5c019efddc7880529742", 
+            dep_hash = "298723a9e0aca0ac04ed48d5b30b25908c52b9b6e572ea29475501d8112a862f"
+        }, 
+        ["/Packages/_Index/RoactRodux"] = {
+            source_hash = "912d7a342ca40c59aeddb17e608299b8ff69b330c6a7ed9096ec60403b39d4f7", 
+            dep_hash = "61be5069d2193115a57b508e3a2ec4cf7d54763b9b7cc663f9fbf77f009f3daa"
+        }, 
+        ["/Packages/_Index/RobloxRequests"] = {
+            source_hash = "4a459659f927efa9c8ccfd777aadc72c9fc4381c7f7a13dd4a48ea10b79f2980", 
+            dep_hash = "03bff5081a444b5bd7f70ce928b82d6ab349d1b57488d57dedb069ad9f47fadc"
+        }, 
+        ["/Packages/_Index/RobloxShared-2.4.1"] = {
+            source_hash = "4aadda79a8216d31cbc8527c7c6d013f5e74677a5e04362e9b9b81a82aa0fffb", 
+            dep_hash = "20dfa808ee3c610c6a4170cbcc4eed9e0ec7c82c1f6461c230c1ae88b513305f"
+        }, 
+        ["/Packages/_Index/RobloxShared-3.5.0"] = {
+            source_hash = "1c3d7719a9e8fdf416f19ba539b886ae37da7abd16b63f6a212f7f1f04a449e7", 
+            dep_hash = "2eee72300f3b20ce2c15dc2d4cde8812354febc31b1c21d6fcedb1850bdc7d72"
+        }, 
+        ["/Packages/_Index/Rodux"] = {
+            source_hash = "8ae4480234df675e959ca6ef2fa33a42f2bf47eacf93119facf8cc603c771c43", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/RoduxAliases"] = {
+            source_hash = "7b341124d7bbfaf8085f157f3788c050529e84f2b915287715eba68d0a2ef7c3", 
+            dep_hash = "0e69fb70c720fe04805e49aefca329abd2cf76115df9c1cf1951bae7c03170be"
+        }, 
+        ["/Packages/_Index/RoduxCall"] = {
+            source_hash = "1e83acc30626c9463472cbda77db2bf874750d1a9bee1685b5955a1307ed08c3", 
+            dep_hash = "4ff19da738aae87fcda9e35df22267723c746955649b660989fc4ed9705d87e1"
+        }, 
+        ["/Packages/_Index/RoduxContacts-0.8.4"] = {
+            source_hash = "a7b0536c88837d76f5d7cb34a1e60064b023887476fccad4e009553fbf00e708", 
+            dep_hash = "5147a73d871081407c9e47d9818ece52b03403ee2ddb67e2058acf7e5e4c8886"
+        }, 
+        ["/Packages/_Index/RoduxContacts-8363ecbf-ce1067fc"] = {
+            source_hash = "4ebf50ae24eec8429f26477bd8ed0ee5bc83ae569c4a1c7b0ab0e24b26b82898", 
+            dep_hash = "5147a73d871081407c9e47d9818ece52b03403ee2ddb67e2058acf7e5e4c8886"
+        }, 
+        ["/Packages/_Index/RoduxDevtools"] = {
+            source_hash = "be432cb46c58e19b82c03bbf44e6e6195e1327b7fa657efc3cd42c49dc076cb0", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/RoduxFriends"] = {
+            source_hash = "c9f3255058cfda6c614d1c67dfab6944e5e37f281a604f7fb9537e9d809d38bc", 
+            dep_hash = "46199d3fe8aa2953075758ceb3dbf91ed10d813f44db8c5a3b1875adb8dad71e"
+        }, 
+        ["/Packages/_Index/RoduxGames-c69837d6-ca9547e2"] = {
+            source_hash = "be9f9ce7c4c36fd8481833a9a6fbc0c4ef4045c84774481418995565dd3563b0", 
+            dep_hash = "092e68d0a4d3e2a87d6fbcbb580ba6a10bfd0ea2e37119c76419b550a9997cdb"
+        }, 
+        ["/Packages/_Index/RoduxGames-ffcfa086-ca9547e2"] = {
+            source_hash = "a37445512bba46a1052dd33d8e585a1764fded89a668dd5603962f0471d8b132", 
+            dep_hash = "092e68d0a4d3e2a87d6fbcbb580ba6a10bfd0ea2e37119c76419b550a9997cdb"
+        }, 
+        ["/Packages/_Index/RoduxNetworking"] = {
+            source_hash = "ac11ca565e450b7ddbfb3f71557597216f79dec62a0f435760620d0ac38d04d9", 
+            dep_hash = "a1fb2e2ab29ff05c1c2103d32b35b8d720d87d4193ddf56832e254fe9064fbc4"
+        }, 
+        ["/Packages/_Index/RoduxPresence-50d7e209-c2fcb3b0"] = {
+            source_hash = "a91fda06f16d4d16d60d2ef9335f7f23ebfae4587586a07c2d429861c1af7524", 
+            dep_hash = "347a90e77ac9cb62ec58f2df2fefa73bced4cbd0de7efc610ff1f43c212d2165"
+        }, 
+        ["/Packages/_Index/RoduxPresence-fc5b9ccb-dc416d59"] = {
+            source_hash = "1c14195ff48c85e8f5f0103f2ec4b267d2f1ef2e9f7fdbb8469f7859d2b0656f", 
+            dep_hash = "18270a5c2723ce68486bd621443d424532dd71543698a6f44bf6d72233a12e64"
+        }, 
+        ["/Packages/_Index/RoduxShareLinks"] = {
+            source_hash = "356697835ad22e69cd9004ff3345345a40c8b3fa96307a054b76df110cf1cc67", 
+            dep_hash = "3e6435e7776c26c449ab57c86f7225a75f5794640fc2281c92818278cada7be2"
+        }, 
+        ["/Packages/_Index/RoduxSquads"] = {
+            source_hash = "ff17c28fee095b69027fda9bc6b55aaff6eb32e8355578fd2dd8392b64549036", 
+            dep_hash = "c49de36236a8f440e4bfd389d1b138b7450245592c9c2c66afda810bdf25b708"
+        }, 
+        ["/Packages/_Index/RoduxUserPermissions"] = {
+            source_hash = "de21351dd086e27effbc9f5b4401884abfd97c30eaa3468ab7c3653ed4256f9d", 
+            dep_hash = "fa5e471b64bb348552704de2e2ded2fa3fc4b1d8d738dceea444d62249b8af9d"
+        }, 
+        ["/Packages/_Index/RoduxUsers"] = {
+            source_hash = "836cde7d31eb094996f5476659b13e85133216a5b31cdf8837f6d83dc5e21a9f", 
+            dep_hash = "bf9b43cb84c119838a83b2d87c1b8a8ac8c372fca0f5180e7f7178e2df166e99"
+        }, 
+        ["/Packages/_Index/Scheduler"] = {
+            source_hash = "c46c732ed7a9af343d90edafe377567b9037b91125692fd692c0e91d6b2bd7e8", 
+            dep_hash = "31a2857e3d0ce2adde94816f07dfd9046251207fd8f729591a9f7953e08b323b"
+        }, 
+        ["/Packages/_Index/Shared"] = {
+            source_hash = "b988f13e284d8120cb13a0958eb193f6e22e49ce1678a5125fa482df8569088f", 
+            dep_hash = "e4b95c6c9be9e1df584de664cdfe54b879c2a13b0f714269ecabafacf0832e58"
+        }, 
+        ["/Packages/_Index/SharedUtils"] = {
+            source_hash = "5a063027ca4029d1a2fd6b73667e353e48ae73bc682f7b4ea521522bfaae598c", 
+            dep_hash = "03bff5081a444b5bd7f70ce928b82d6ab349d1b57488d57dedb069ad9f47fadc"
+        }, 
+        ["/Packages/_Index/Signal"] = {
+            source_hash = "8b53a91ad3e4259bdc430729cbfe6accae19349d1c01f94da9a442db2a4e7e2e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/SocialLibraries"] = {
+            source_hash = "aa92f7473c715afdc277ae46c6662878ffbbb2749957e32479a952bbd3a3b9dc", 
+            dep_hash = "02a689416d1f3b054f2228ed45b0ada259f76e8d9b12c7f51fe7ca9369680918"
+        }, 
+        ["/Packages/_Index/String"] = {
+            source_hash = "6e5555c5b4cfc8be7da9269690f85bc9661b70595ad6be491030bcedbec9000d", 
+            dep_hash = "0745ed4324525bbba75a45b34e49219aaccd6ce438bfe51615bae056fc84539e"
+        }, 
+        ["/Packages/_Index/Symbol"] = {
+            source_hash = "02544ce392072957850815d3eea602588dd0344e1530d13c26b6d7f43cbbaa52", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/TagUtils"] = {
+            source_hash = "ef811553e38b656c080d75d149f2347dc64ae51f0b9985ca6ab51c01f8abd6a8", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/TestEZ"] = {
+            source_hash = "32eb32834c72cf95badee3c87b362fda9a1dc44515195d12701a3d228487d6e4", 
+            dep_hash = "54314dfb6cb667ecee9ae1a9d9c6ab61226e7459a97f59250226efeb1381bd28"
+        }, 
+        ["/Packages/_Index/TestEZJestAdapter"] = {
+            source_hash = "fc62bf7475b0bd71b0ac26dca38dad67c5f513650ebbf77df7decf19e999a17f", 
+            dep_hash = "56a186f978b211faac18eef46b73f11b1b571eef90ff43aba9d97b63123a1c43"
+        }, 
+        ["/Packages/_Index/TestUtils-2.4.1"] = {
+            source_hash = "e55f48a4f31ae58ff3117daeaba4810530f8d111b7deb66ad9e7fb83823e729c", 
+            dep_hash = "dac7c541911feedc4d6c3da6a4aa338a04c2c24af00a9ec338bece52c4ff596f"
+        }, 
+        ["/Packages/_Index/TestUtils-3.5.0"] = {
+            source_hash = "9d018e7dc4a7cb68edcf333ff7a5b19203304edfc82cc2beee0b14e68cee8c9a", 
+            dep_hash = "903fcdc124f2a6b0059cbe7fd9ea60e802e48bbfe7054cbb15250f25b11ad930"
+        }, 
+        ["/Packages/_Index/Throat"] = {
+            source_hash = "5ba4cc864f4fe3c9163622b5a5aba557e1f3ac31cd9aebb6a25753eb1f589157", 
+            dep_hash = "dd9840b84cdc8613592475843111233ea5cbe2e72cd29af3c1ef1e6d4ebc2f37"
+        }, 
+        ["/Packages/_Index/Thumbnailing"] = {
+            source_hash = "bbdc2aad3d3cffdae32b4affe9f1aa3ec7cf974553b5299dc97b12aa65aea76a", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Timers"] = {
+            source_hash = "c83a66448763da5ffa768d558326d1af5f8197f7b53f96f57b0e4987f77849ee", 
+            dep_hash = "04695ab46827541b23c4e47fe0c5bd500809c2cbaa3ce44572927726986590b0"
+        }, 
+        ["/Packages/_Index/UGCValidation"] = {
+            source_hash = "85db9fddb84a8e9393e0c5920dc93416123ea52cce716f566370c3aadf38717a", 
+            dep_hash = "344ca9cafc4d2d428e9b2c4ba0a74ca9acb69e4a87c2abf699e78571abfbecfd"
+        }, 
+        ["/Packages/_Index/UIBlox"] = {
+            source_hash = "7d7d4b5f4e2552799753f84ec19be13b4f0e8dba9beb4a2f3e9ec3a7834d708a", 
+            dep_hash = "d77676cc80e98f6d2273da020d037c1a0f8c09f28d550e2d1e141ee881b572a5"
+        }, 
+        ["/Packages/_Index/UrlBuilder"] = {
+            source_hash = "2af2f7876f2ece55a5793d2973e59e494ab122457d5341eba72ac681af2605d7", 
+            dep_hash = "340c41c32e6dfdf7de1619477ef6f9eaf1de8b49fafb9fffacd4721c6cc3bbae"
+        }, 
+        ["/Packages/_Index/UsageTracker"] = {
+            source_hash = "86bdc43b02c8c74977abcb9cdbd79811fa7db4bb4da8d4d22618d53e6d6f44e8", 
+            dep_hash = "e271e3b751de9002a28c2d3a6a76d4fbfb36b26c8047f85fcc72ec29887a840c"
+        }, 
+        ["/Packages/_Index/Util-0.4.2"] = {
+            source_hash = "e0b9ca99d4e0f06a3d58f679370dd9c589af4a18af2fce8b2cea7de6b36a55bf", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Util-0.6.3"] = {
+            source_hash = "c8abdc2b42ac078c0b38e1c3a5482dfad0910a4f0bcc0d65ee192ee594a38c76", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Util-0.7.0"] = {
+            source_hash = "56695261ba921c661f34a0f4ebdb2a4e9346cbcf548895070a1ab35e326e59e1", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Util-0.8.0"] = {
+            source_hash = "983c0013bf88a5031227ac264a81f27f8a635d2a80ed1f7960f6700e5a3b159f", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Util-1.16.6"] = {
+            source_hash = "ee75a4dfbd24ffdc5890076e51f07c29e0d1dd5c157dfbfb5c093c709eb9201b", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/Utils"] = {
+            source_hash = "d8e9b47892614f10884d2fda03f3bc8c84f99aa950023ed9f01f72516576d8bc", 
+            dep_hash = "fcb3dfc58c8f4e9e1f31a1b4a85c27cb582b6cc9f7804df7c84a488d4b9a5b78"
+        }, 
+        ["/Packages/_Index/VirtualizedList"] = {
+            source_hash = "90d5c4761b6b2a62d0bf7583eb2751505d745ee5f4002c4c94a18eafef192de7", 
+            dep_hash = "1708f5835879f633618d58c98442015246ab2c8ae0a01e5cd3f7b2174764ba86"
+        }, 
+        ["/Packages/_Index/ZenObservable"] = {
+            source_hash = "b0664ec9f859fbc17ceaca656b3fea513728947fe625dc41f783bb78ec245f4e", 
+            dep_hash = "f84c8c856a21af38e21a0f157ed4e180acd35b7383cd0c24578e28d9e4603193"
+        }, 
+        ["/Packages/_Index/enumerate"] = {
+            source_hash = "6e2b6c9bda2239c1e0c89ae9a617998d26b89f341183882d16d6603e0fceaddd", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/jtaylor_mock"] = {
+            source_hash = "037e242a7e1e0e1172f0d0d6e88e2cca83069384ea3602739aa613ba9772e370", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/llama"] = {
+            source_hash = "83fc2f77d0dc10bc836fe17effb86da53bafc233d14d3f6bb956062b4353cb31", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/lumberyak"] = {
+            source_hash = "6e22abaa624162572b5e3ec7c5deb2c8a1440661ad05839dc3c01c38cc5655f3", 
+            dep_hash = "6146015ac4b0ffecee1ff5b6d596306d44e6d7fc5d878134c5c59f5bd8706908"
+        }, 
+        ["/Packages/_Index/mock"] = {
+            source_hash = "5184feac75a2c99c81b96d00a1617b68963602866c0639b160283a3c0f9672a9", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/roblox_genericpagination"] = {
+            source_hash = "6b11627944763d4c59993ef5cd29b7349f9381d3352fea85af92389a1c1b8776", 
+            dep_hash = "3f8398e5420abbb3786f76ddc4da091386fe37bc8f2c3529c616c2f1a2e54f2c"
+        }, 
+        ["/Packages/_Index/roblox_http-request"] = {
+            source_hash = "46293d8932cfbd39ca3326b07a6892f1bf3a73be80d08ce8bbe8222e3532274c", 
+            dep_hash = "344ca9cafc4d2d428e9b2c4ba0a74ca9acb69e4a87c2abf699e78571abfbecfd"
+        }, 
+        ["/Packages/_Index/roblox_lua-result"] = {
+            source_hash = "594ff5ced4018d544c5150e1dd7bb652d9d3989a0850a25155e8a335cefe7de3", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/roblox_lua-roact-policy-provider"] = {
+            source_hash = "725f8b1ef21db80a97fe32d4a01d2745061f53e0d68d80de0121f91e857d3e27", 
+            dep_hash = "608c1f4ae29e23df682c6079769c1aaa1fb28e68862d972549f2300931203919"
+        }, 
+        ["/Packages/_Index/roblox_lua-symbol"] = {
+            source_hash = "a58764b67eecdc7d6029c3e73e40804f618e5766ba837277d9ffae1570fd10b5", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/roblox_lumberyak"] = {
+            source_hash = "0f27363beb0a7093d310d3f081535326aa115b27155546862906d27355cfe75f", 
+            dep_hash = "6146015ac4b0ffecee1ff5b6d596306d44e6d7fc5d878134c5c59f5bd8706908"
+        }, 
+        ["/Packages/_Index/roblox_networking-chat"] = {
+            source_hash = "19772f6101fbcefc2de41b204809a4c5676ae7afed618bd1717a9670664ce11f", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/roblox_networking-users"] = {
+            source_hash = "061c48316eda853bc5510a5deb2d428595108881a2b5e9d2beb91ae7a6608ad9", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/string-utilities"] = {
+            source_hash = "6292b2ea84fa5f87134289d98e3839db3d1d646f30ce20ce1a2ba3145f30f64b", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/t-1.2.5"] = {
+            source_hash = "409742d41423279ef0fa40bae67f69c9aaeead529f20d48d33effc19e3c9917e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/t-3.0.0"] = {
+            source_hash = "a7254f0fbcd768c4f462415934a31c9197e97dc6a6fe15d6bcbb8841cdd8e5eb", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/tutils-0.1.2"] = {
+            source_hash = "35b0d18e9349cb61685b5295999d19e9e942494c3088bfa7ac4e3d24c53069cd", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Packages/_Index/tutils-04e2814e-937da4f7"] = {
+            source_hash = "4a9874473aa7a8918f443a395b6163cd3ed55fb42bcd83713c10bdb599d0de97", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/AbuseReportMenu"] = {
+            source_hash = "3b81ebcb1ea649e8b14355443e2eb3e73b3c216c99eed00158bf2e3d5f694a3b", 
+            dep_hash = "d29e34eacdbc937019180a89f2be4e9cca75f98b6530b3e3ae8ae56ad0dcab9b"
+        }, 
+        ["/Workspace/Packages/_Workspace/AbuseReporting"] = {
+            source_hash = "c174ec2153fc1253f469e895b30f6a1b5de22660b1e22e1b248aaa7b9ae21d35", 
+            dep_hash = "86e2f6d323120c5c36265927c08d3c035ea9637af3c7f0d15ffca22253231b3e"
+        }, 
+        ["/Workspace/Packages/_Workspace/AccountIdentityTestSuite"] = {
+            source_hash = "38cd562bc3c319975c916ebc459f9b844f1cadd85594c1457b183a660236d00b", 
+            dep_hash = "819b7264676aa8d958559e5a403168c3c106426ef5f499124f879ab17c231d82"
+        }, 
+        ["/Workspace/Packages/_Workspace/AccountSelector"] = {
+            source_hash = "9486566bd5ce376472f705a75389e8676f952d4d2a47a4f36f74dc8419aeae02", 
+            dep_hash = "a91d34fbb45ddaa96100a0b4d32ef0de75cd5ad7ca02c82c4d63f71395c8d4da"
+        }, 
+        ["/Workspace/Packages/_Workspace/AccountSwitching"] = {
+            source_hash = "9a10cc96ec91d268f155fea2f9ff25bacaca406890b6ce3255e93d5c2436498d", 
+            dep_hash = "a91d34fbb45ddaa96100a0b4d32ef0de75cd5ad7ca02c82c4d63f71395c8d4da"
+        }, 
+        ["/Workspace/Packages/_Workspace/Achievements"] = {
+            source_hash = "ecdec220c9bd055a6db5e62e4de7618b78ba9707d5398be1d9c0e3c4cb56826e", 
+            dep_hash = "bba8a2f9273270b492377b8b2106a199fc0a431eb5ea1621f4371ccc8d02c577"
+        }, 
+        ["/Workspace/Packages/_Workspace/AdGuiInteractivity"] = {
+            source_hash = "97df2ecc7fd1308fa17ca787fa7886b6219a9cd8ee553a8f90a53ddc7acf370d", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/Ads"] = {
+            source_hash = "6533dc0c0bae950a4fb94d90f89aac5725301c1b15f463bf4f4dc4993abc5c95", 
+            dep_hash = "bcae1a32afc8bf798734df48311e6732e1697a29a89882c85f3b3a7e9b3cb114"
+        }, 
+        ["/Workspace/Packages/_Workspace/AdsEudsa"] = {
+            source_hash = "ee1f7d9e6c608c906791e8ab018d86ff402b41b66747484d7cb326817b5271c3", 
+            dep_hash = "fef6f8a0ec286612bde129e44beafb5a67f8f1cd850cfa7c6baad635b7912f7d"
+        }, 
+        ["/Workspace/Packages/_Workspace/AmpUpsell"] = {
+            source_hash = "bfed4445fe933df284598f39dde930bf70ee268f2aad69eb95beae1b582fd2a0", 
+            dep_hash = "5fa9087365c296fb3ed3d4a9557b50ce16603c2a78ea7f85d28eca29c90ba1be"
+        }, 
+        ["/Workspace/Packages/_Workspace/Analytics"] = {
+            source_hash = "bfe97688e7890371895a5d66e2111477e415487f58f70081d6d3f6d7358f5ae1", 
+            dep_hash = "4c4ad795a63ee1ec440de5ac373f52ae0efd45ffb96526fb0d4cb69f05751194"
+        }, 
+        ["/Workspace/Packages/_Workspace/ApolloClient"] = {
+            source_hash = "89c7aeb996245add35b8db9dbda8db72aba138ea30d48284e9ed38a4fd1efe80", 
+            dep_hash = "b9896841ada6ae133f8aa6b1179baf3b9c5bc8c88ce2c025fc4ad3a4fdbe0e51"
+        }, 
+        ["/Workspace/Packages/_Workspace/ApolloClientTesting"] = {
+            source_hash = "5bd72d43d28112fd7c0bd86d36ff79e0df4c2008425e323183fb88dbe6d32140", 
+            dep_hash = "1bb68d773cfebb5b5fe3f073eb6e85d55f2c8606744dc5399a728ba6b1e05e5c"
+        }, 
+        ["/Workspace/Packages/_Workspace/ApolloFriends"] = {
+            source_hash = "e01173b697cb13351b9b54291653e57f24f5cb80f7b67b1cbe3787abdf90884c", 
+            dep_hash = "4c4efbfe2a439534970bd4cfce47e197cb4330e525b991f330e7aeedc6385a68"
+        }, 
+        ["/Workspace/Packages/_Workspace/ApolloLocalState"] = {
+            source_hash = "cb604d94897f895f89689fd4227178877e0cc7ab60217d36f5f19a13913b4bab", 
+            dep_hash = "3fd2513cb31ed9afeb1b8ed04f2ba544d4db235725a1092a41de48a291b1f691"
+        }, 
+        ["/Workspace/Packages/_Workspace/ApolloPresence"] = {
+            source_hash = "8702c904b33d8d254fc06cc4b0dcea970427530d2ea41ee3bf35a088f049afd0", 
+            dep_hash = "4c4efbfe2a439534970bd4cfce47e197cb4330e525b991f330e7aeedc6385a68"
+        }, 
+        ["/Workspace/Packages/_Workspace/ApolloProfileInsights"] = {
+            source_hash = "5915417b1b702b952f458f6afe6a3bf3bb5b94404c60ac2ec4a331f22339c2bf", 
+            dep_hash = "ba10f03c753e39b2751c47f93eed9885ae786a47bf6329caeb84d4acf4c55efd"
+        }, 
+        ["/Workspace/Packages/_Workspace/ApolloShareLinks"] = {
+            source_hash = "9f84bee90d4aac75c1db7f34d735a5fc10526fb01fe5375c766fe9ecceffb624", 
+            dep_hash = "4c4efbfe2a439534970bd4cfce47e197cb4330e525b991f330e7aeedc6385a68"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppBlox"] = {
+            source_hash = "f8ab4987ae0a686e85d44b5867e966fb684f4c3f29f893af33e2fdc4570354ec", 
+            dep_hash = "c92d147ce04f259c188b442259b3345f9bdd54dc2f23de7d3535cc2a47ffc551"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppChat"] = {
+            source_hash = "0056d59ca3175c2dca4c93a5282dfb4e88de5ed5c0c2f8b1d36e632ed94a4525", 
+            dep_hash = "32aa6db2d73df01c91f28e63f5a70bec799dc4cfd3c83be22f89c3fdcaa6e631"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppChatNetworking"] = {
+            source_hash = "95d4670896e476e1303bc8175ba3b6c455be97626e99f19fc7d0316cc97ffc45", 
+            dep_hash = "9eb1724a0f375f817107a0e19bf6e1240adaaa77ab4815a1e4e646e8f775d1a2"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppChatTestSuite"] = {
+            source_hash = "8a5e1ae68017b8d205018fce8f61d6e2c474f96d48abfc51176b4f5b2f5f0ec2", 
+            dep_hash = "91f3fc9c293acccbfe13431d8ab4b4c39e6463f1e3ce2e0d29300e20d55ee9c1"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppCommonLib"] = {
+            source_hash = "6d9ee37007c2c35e184772584c305e92c496a2c7879b329415f9cdc145d06f3c", 
+            dep_hash = "be796857e70d21035b86ddc7dc18c70a4a94865c93a123d05eec426c814eb053"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppHeaderBar"] = {
+            source_hash = "5d5462b3e82a12640b5fbd25c566165876ab0f9ce8d79b7055f6e266c96b6937", 
+            dep_hash = "5c4596e62fdd3ad327573519eb4b62ae50b2cd7ad1c9a8ed05c0e19fa1943212"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppStartup"] = {
+            source_hash = "54f8a4267d3b38bf16e3ee0c5b06772a90f848203f3ac13793fcaac423b42ebb", 
+            dep_hash = "23c6eb199b9492169c2340fb17de717626569f5a3ba7e7eafc94e45bd2dfcb12"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppSystemBar"] = {
+            source_hash = "359774981e4fdca74d970811f14b3156adf2978e3eb1fde5f0911d4ad2885838", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/AppTabBarRodux"] = {
+            source_hash = "c73547f4bac6aa066fde6fc0e6cf0281bb8597c29ed92248f3af74686c188a2f", 
+            dep_hash = "e11476297d2c4bd1758ee6c88b8a2fd9a6a2c68cc30c1456b6652036d8d8b476"
+        }, 
+        ["/Workspace/Packages/_Workspace/ArgCheck"] = {
+            source_hash = "1e4bb9282cc191a4f5623240d17eb36d47c451db0af4082ecfc7a906830b5259", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/AuthCommon"] = {
+            source_hash = "c504885e3172aada9dfe5477bf35a8d3a04f9f432d5247a07ce08296daaf5f68", 
+            dep_hash = "dd2c7b20eed45c24ffab6fe48c5edbfd31a6f0e2e1d7fcaf183c42e561c1d26d"
+        }, 
+        ["/Workspace/Packages/_Workspace/AuthCompliance"] = {
+            source_hash = "8a00cc818c5089b2f5eb0ad420abbf02a855ef2a10571af2a5535c5d6aaa56b4", 
+            dep_hash = "c235de0841a122624a52983e8c9efdceffa76bbeaaddc45ec7b2cf660d66278c"
+        }, 
+        ["/Workspace/Packages/_Workspace/AuthenticationProtocol"] = {
+            source_hash = "4afd4d4d60d3e1ed49535625c1788e1a172dddecfa7ec4e117ecf01276cabde8", 
+            dep_hash = "9d558c96a80c94d3ada7575318fe775daa9799da04964995df77b1f3e2ddf6e1"
+        }, 
+        ["/Workspace/Packages/_Workspace/AuthenticationStatus"] = {
+            source_hash = "5679a3d09357ad8b6b189793ecd2bca7e1b1cf2e694094ff65e09c9b6ae5c61c", 
+            dep_hash = "821d7013ea0de54875d10e7cfbb97b56ed724beb29aaf131e3c60537617a5145"
+        }, 
+        ["/Workspace/Packages/_Workspace/AvatarExperience"] = {
+            source_hash = "67a0fa957c7ef33dc0ec366364987ca8e8754e91b3fbfc741feadfd41a2b7ac9", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/AvatarExperienceDeps"] = {
+            source_hash = "844273e994d750c693f6e1bd63e98efa8dc4ccf358192a677bb9e25424ee75f2", 
+            dep_hash = "54dab61814f41fa5df5c92c87a386322e4869ae5c58799b1ff3e26b59076c703"
+        }, 
+        ["/Workspace/Packages/_Workspace/AvatarExperienceSearch"] = {
+            source_hash = "96a6317c17de4582b3adcd5d854765513ed594088e981f89185d3efc9fab33d3", 
+            dep_hash = "90d7ec73e4c2d05f85aa29bbad15c32c183ff6c2039bb89b506a896dc43c19a9"
+        }, 
+        ["/Workspace/Packages/_Workspace/AvatarPolicies"] = {
+            source_hash = "15db2c9a305a4fc10b3900e939f83fdaa5ee4d4d054f0aeb02cddd6680878c83", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/AwardProtocol"] = {
+            source_hash = "7ce4d68d8cc64fa955521ec97a622144c0d2417221108fc232d48764a3945cf8", 
+            dep_hash = "9d558c96a80c94d3ada7575318fe775daa9799da04964995df77b1f3e2ddf6e1"
+        }, 
+        ["/Workspace/Packages/_Workspace/BenchmarkSuite"] = {
+            source_hash = "16105087a91daf7f2ce7edb2800bd30b71fee25f7bf44f011370a6864bdbd91f", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/BulkPurchaseApp"] = {
+            source_hash = "cca8ec02c05ba05dab32edc8653e01271b5476ef91448bd6ed3b08ac3987be11", 
+            dep_hash = "d5ae556dd4bace127579b5096cf19814f7844b7e863669ccd130bb6564eded10"
+        }, 
+        ["/Workspace/Packages/_Workspace/BuyRobuxPageTestSuite"] = {
+            source_hash = "63691134399cd244310dc2444865dc213831241ea73fed7577d946a6283cb1b7", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/CallProtocol"] = {
+            source_hash = "d51895c6b46881fe6832390bba92e401acc278d6b3224ffc782f20a5a51c6c6e", 
+            dep_hash = "579c06ec3d5e3cd5a716edb21bff8e164de2379395605bf63953cf57e5623cfb"
+        }, 
+        ["/Workspace/Packages/_Workspace/CameraOptIn"] = {
+            source_hash = "94240811469499dc7863aff451486e89446e8ddd32923b0b17cf1dcd831e8fc5", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/CentralOverlay"] = {
+            source_hash = "9d5fd146c562cf7137c10d184e57223fab87f03a16d1cd6e15960fef796fc184", 
+            dep_hash = "07387d840da8267178ae83ee9453e36982716d67742a93e9be56f3b97f5dc60c"
+        }, 
+        ["/Workspace/Packages/_Workspace/ChallengeDialog"] = {
+            source_hash = "ff69cf6f50e846c4fae9c347280098c67bb5ea10b043ee20b36afa662550878d", 
+            dep_hash = "ecb42b6b77939ac7bfbb7de8e9d3d3b4e62563cfe0638cef1897383df29864fa"
+        }, 
+        ["/Workspace/Packages/_Workspace/CollisionMatchers2D"] = {
+            source_hash = "920220a3ec5dad763c777c06b4f206ad1f82898f8848563fe931fa6a5aeefd72", 
+            dep_hash = "8f0f2bcd186ef6b548f5fefbcd5fcf18b39f1f144a072e96aa36cbd5ea863da6"
+        }, 
+        ["/Workspace/Packages/_Workspace/CommunicationTestSuite"] = {
+            source_hash = "fd5e1ed59879ba9c77a9e36c75c3b24aed1a0bff2daf87095df962d60ef79861", 
+            dep_hash = "78173e32642d9baf429ef099aa4a1c27923ff8f738bdb7b4e9bf19b95da7e36a"
+        }, 
+        ["/Workspace/Packages/_Workspace/CommunicationsContactConsent"] = {
+            source_hash = "4982774a85a506027784b3ff46984d8232036b759b265a90f191df24856edaa3", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/CommunityLinks"] = {
+            source_hash = "8c728f4a76561337bf7d307405c49a5b3acb575b109962deef86f364e2a1bc97", 
+            dep_hash = "fcf4b005c2ba164e485363a22ea3e7e98f0138862173128cdbd92d58a161907f"
+        }, 
+        ["/Workspace/Packages/_Workspace/ContactImporter"] = {
+            source_hash = "51e7deefb3f1a7a99b182602794dec1cf68558dbc555d2d0afe1650f587b2738", 
+            dep_hash = "773605e51cd86bf29042706183b9cbb72e7041e37d82114f13608b9f9b811fda"
+        }, 
+        ["/Workspace/Packages/_Workspace/ContactsProtocol"] = {
+            source_hash = "2eab5cd527a505eb6984105ba6c40edfbf5f8f8694d36e6565ed1363470c9088", 
+            dep_hash = "fdeefbd88ec301f53291b7d8c025512fa9487baa4fead71e9f19549feb17b85e"
+        }, 
+        ["/Workspace/Packages/_Workspace/ContactsRodux"] = {
+            source_hash = "145bd8be87e3f46056d244f1913f4a50d1fc92ef25025887fd956cfab882f3dd", 
+            dep_hash = "eee7406778e9d4fdd9caa214b856de6a7aaffbe564e77ce2f3c3be4fd3104d67"
+        }, 
+        ["/Workspace/Packages/_Workspace/ContactsToast"] = {
+            source_hash = "fe6bca3669e052139ad777beb0655d0bcc5fa18d3acea223c5d3b2c63a1db4fe", 
+            dep_hash = "80a3d4c2cb0b77504f296fd00feea24c1ec8ba436611ddbe91ad87555718b9b1"
+        }, 
+        ["/Workspace/Packages/_Workspace/ContentFeed"] = {
+            source_hash = "83ad0aded20bc3fb04fbbc3822745c0160f40df796f21f9f81544cd29048ad41", 
+            dep_hash = "236c93047290fd456c47b25195f1f59ce05b66c24c4a7a753ffa32254c88688c"
+        }, 
+        ["/Workspace/Packages/_Workspace/CountryCode"] = {
+            source_hash = "23a50e8784a0a6befb3f18a4e5c87c9fdd69a0c4c0235bec6b39df40c6199ff3", 
+            dep_hash = "07387d840da8267178ae83ee9453e36982716d67742a93e9be56f3b97f5dc60c"
+        }, 
+        ["/Workspace/Packages/_Workspace/CredentialsProtocol"] = {
+            source_hash = "9abd57b35ed9e69bf47d3793625c46c0dc677d372208bf9cdd91cab6647a3390", 
+            dep_hash = "fdeefbd88ec301f53291b7d8c025512fa9487baa4fead71e9f19549feb17b85e"
+        }, 
+        ["/Workspace/Packages/_Workspace/CrossExperienceVoice"] = {
+            source_hash = "52e85783c1d21b3f5af79add12c21de0d1b939a9b8ea78156f7f7b5728e2e5ba", 
+            dep_hash = "03f1121fd95e4aeec82af723f5cde84167d35e96e95eb0db6352f30649bd7d6c"
+        }, 
+        ["/Workspace/Packages/_Workspace/Cryo"] = {
+            source_hash = "f3f53149277076ec0d4d4ac3c8d2693315c7c32981206fa75839679b7cfbe3af", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/Dash"] = {
+            source_hash = "995fc704d74284b29da01cf656c5d40cddfa37c59a04de80d22a31aa77645eaa", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/DataLoader"] = {
+            source_hash = "777dcb0b3ab63f6f315c36297fd17ee081803b294cf4d353e7ed8938c0d81777", 
+            dep_hash = "dd9840b84cdc8613592475843111233ea5cbe2e72cd29af3c1ef1e6d4ebc2f37"
+        }, 
+        ["/Workspace/Packages/_Workspace/DeepLinkJest3TestSuite"] = {
+            source_hash = "e7648aa23ba9d8670c5ab2ab85c56a5b4659d7d928666787c248e4041dee05fa", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoverabilityModal"] = {
+            source_hash = "adb620ed46134d4f85304ba349a0e3a2050ab17cc7c91009826e597c16f946a2", 
+            dep_hash = "585ea59281873349b0f5544578a6f899ddb4a2697ea42c74a4c0d2cac5cb31aa"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryAppChatApi"] = {
+            source_hash = "7425b68e127fab8bb07f60f3b3f2e2d0dc02468a1a9a1cf10e3c390b76b8cb6a", 
+            dep_hash = "91f3fc9c293acccbfe13431d8ab4b4c39e6463f1e3ce2e0d29300e20d55ee9c1"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryJest3TestSuite"] = {
+            source_hash = "ec960971b234cf5b9d4096f31deb8520d34767a935718a9ca6ea757af5375c84", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryOtaPatch"] = {
+            source_hash = "f52eed30268a7b626a5ec6a7bfb02d050eb59d67d3c900987b3a57fd85a6747d", 
+            dep_hash = "1cfc79254a83b7e087713023d0e942ad9dc9f689b624fdfbefe126a09b228ab2"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryPackagesTestSuite"] = {
+            source_hash = "26f6ea9e9f59a10a318dc4f4ad2af123385015b96eea3556a0eb511af7c52757", 
+            dep_hash = "b0d309ad9deb4eeb735f91305f1f78deef575015e0c917252c218fa1038b32af"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryStyleApi"] = {
+            source_hash = "0d225bd97b1e29930afb26b20a37dc353c6dbcf887dc3d83d82e0592f8e5c979", 
+            dep_hash = "b3664ff89be4b0909beb652c431effcb3afed327607f9ddffa7b85fd13022e94"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryTestHelpers"] = {
+            source_hash = "4ce9a411c4ada7868dc81d8cd736473315f71c34431f8431c008be765d57053e", 
+            dep_hash = "4c4ad795a63ee1ec440de5ac373f52ae0efd45ffb96526fb0d4cb69f05751194"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryUiBloxApi"] = {
+            source_hash = "5422f63a334589d769103ec3b62fab39676e1a28d5888378f5456f1aeb4b46ab", 
+            dep_hash = "11b1b40a6e9eba0c2fdee112bae4e3bf4f7d3a2f75ee0de692efc6020ea6460c"
+        }, 
+        ["/Workspace/Packages/_Workspace/DiscoveryUtils"] = {
+            source_hash = "4eabfae123b86fc8ac1a1d99bf66cbae6edb16693ee12c124e8783b1d42fe536", 
+            dep_hash = "324b7d31831b7ce81b8e13dbe2e98e7149ccfc56ef42b5122c021274ce4bf204"
+        }, 
+        ["/Workspace/Packages/_Workspace/DsaIllegalContentReporting"] = {
+            source_hash = "f0c14dbb997f9c55b24467fcc54e842a58f9c5d5bf1736f7217ec2a623a6cbf9", 
+            dep_hash = "ffde95f714ddc925df46764a9995122f9ad5c86ce48c94c8a0b5561fe3caca63"
+        }, 
+        ["/Workspace/Packages/_Workspace/EditProfile"] = {
+            source_hash = "136939b4d8d43bd9a12f84f01dd997026b4b2d2d9a6a00cf1b81a44c4106a604", 
+            dep_hash = "3494cb6b5a7e3630a13660493beee17974686d5c7bafaf0cf4de596ddd278aec"
+        }, 
+        ["/Workspace/Packages/_Workspace/EmojiList"] = {
+            source_hash = "9707c674ee375d9f49f0052633c9b2370926cbb90c580e43205dd3923770df28", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/ErrorReporters"] = {
+            source_hash = "a031514e20ba28dc25fea74b28f071e82a967777195fe0d2a94ebd7fd8a30895", 
+            dep_hash = "085adfa09a7d91833fff26fbca1510e541853dedf0a03b27dfc8374fd1aa7c71"
+        }, 
+        ["/Workspace/Packages/_Workspace/ExpChat"] = {
+            source_hash = "c478c328974440f286b80ce27bdce7e826c65694aaa7125bf8c6a2cdf9c2f0fc", 
+            dep_hash = "ed56f70d434f74383d1589bd679d94e58db5041cb056b8cc424e0ee2b8caf8e9"
+        }, 
+        ["/Workspace/Packages/_Workspace/ExperienceAnalytics"] = {
+            source_hash = "0baf6832eabea0805e0acf8c63e2cd03b8a74e271855807d4c0319134c0bb31e", 
+            dep_hash = "a084df7280d47074ff13c880fe25c93b081f8d1d29b29e83055b84e807ccb496"
+        }, 
+        ["/Workspace/Packages/_Workspace/ExperienceLoadingScript"] = {
+            source_hash = "ec7d2e7b5ecd004210f5dbbe968962f9abea97b8a9764b73859b35fa4c9fc9e1", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/ExperienceService"] = {
+            source_hash = "4e73f4b711e7453c9c4b75051a45c2027ac772491dd781a09099014aceb4f7c6", 
+            dep_hash = "e3540b94e6614c43915267e9113fc178e1d4cce8d86c6d447342a5ae310b09a6"
+        }, 
+        ["/Workspace/Packages/_Workspace/ExternalContentSharingProtocol"] = {
+            source_hash = "17607666caa0fe8dd012410b211456f74d58c60a88e0c1598311bde39e4800d8", 
+            dep_hash = "f8932ba91200ddb8ae5d49244b429d916e4a346484887e34fec6e86be7adf187"
+        }, 
+        ["/Workspace/Packages/_Workspace/Fetch"] = {
+            source_hash = "4ccf8d1b76fa282f7c1896bf2c22bb9a769c76b56c4dc45c0682f78e30a5b6c1", 
+            dep_hash = "579c06ec3d5e3cd5a716edb21bff8e164de2379395605bf63953cf57e5623cfb"
+        }, 
+        ["/Workspace/Packages/_Workspace/FitFrame"] = {
+            source_hash = "bfe4ba65f669d515c8fe0e4da10590c9f05b9e676354fdac08ab8d16d3167e05", 
+            dep_hash = "455aee821c86c84b40355a39d7e92edfa7319003d9c3e5678b9b5eecc9d21971"
+        }, 
+        ["/Workspace/Packages/_Workspace/FocusNavigationUtils"] = {
+            source_hash = "6fbb63bf2e64cddaf19c45d4caa2e9ded5dd358f3ac63fff8f1b5ff7a3cdb690", 
+            dep_hash = "21accbbf4a06c629f7301638f13153ecedb13d2d98424005bb9d89223f74a651"
+        }, 
+        ["/Workspace/Packages/_Workspace/FormFactor"] = {
+            source_hash = "1b08a06f5ca9c2a9f7e06dadb35816f3b0dbfd3bc36188032df07305fd386903", 
+            dep_hash = "07387d840da8267178ae83ee9453e36982716d67742a93e9be56f3b97f5dc60c"
+        }, 
+        ["/Workspace/Packages/_Workspace/FriendsCarousel"] = {
+            source_hash = "bb43ef7683b62a97ca4ef6f9052f19e02efceeac1334a25e477267eecb3b20d8", 
+            dep_hash = "9dcb8fd19647c86d58d4415c151b1ad2f5211faa2496513eb96ed9a64e4abd0b"
+        }, 
+        ["/Workspace/Packages/_Workspace/FriendsLanding"] = {
+            source_hash = "50d34d9429868e803c2da6d80353ebc1668222985ddfc827eaa4b0d4c765d6b7", 
+            dep_hash = "25569e70b209948df4fd896817664ae3a90dd411061682e52a955b6b0a2b4916"
+        }, 
+        ["/Workspace/Packages/_Workspace/FriendsLandingTestSuite"] = {
+            source_hash = "a23c4b40e3eeae5aa0f2c44b0190c42933ad7206fbde26186874ddbee7cafa79", 
+            dep_hash = "d7b8b9c409d040ee103fda0ae69bf6e81005623c4679428366b9911435d68903"
+        }, 
+        ["/Workspace/Packages/_Workspace/FriendsMenu"] = {
+            source_hash = "35ddb3d3bc10054e04b9c68e2da843c7b6125e8f9cdb26b89da8f6291c2f3bc6", 
+            dep_hash = "2265271c46af6ff1d4bfe254c044628138514db764bc5e6c7c83a69ea4ae6305"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameCollectionViews"] = {
+            source_hash = "189c2c570bea82c178b9296d5790843dc0e13e66936deac9a1795a389409a6c9", 
+            dep_hash = "7cbd1d5b72a3939dfc0dcf6cf9f6815472e35b3122ca2ade22529259eed8c1db"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameDetail"] = {
+            source_hash = "0a971d6e8de81de7c994baf779c0aea8d83002f4150f175b1efc4abbd604c68c", 
+            dep_hash = "e8e3cc7b04a8471900515b20f61433066a0f38f678d2bc14edf8ba3114f5ac60"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameDetailRodux"] = {
+            source_hash = "2b718429500006b11d042c40c6b9c13442dcea7abe5010e58edcc8fae4b0fd38", 
+            dep_hash = "46d12c18a6eb74c95a782fb5020c282545a9e17e1a574e88c9c43618eb161aeb"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameIconRodux"] = {
+            source_hash = "64e118c1b7e7cfd590c03729d77118e0ee87a19689aa4c81f89489538c32a7b2", 
+            dep_hash = "6a17e48f9a024f9108d583124a41573b645654edc969c295cb9f9371a17f5218"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameInvite"] = {
+            source_hash = "1d2d52ba38fdf116bf38686bf1bba94f2b38e2cb828db196e8fc54f35fbe12e3", 
+            dep_hash = "167b18b7a6958d4ea6e03d82be06d0fb6d68aef7aa82cc83df465adf2b38ce07"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameLaunch"] = {
+            source_hash = "0d24524c558d2cd9196ffee2b260323e8b8a6ee42f330bc6f7cbb71c90a91b3b", 
+            dep_hash = "fb252d550622da5ac34b58eb1a4e6e1707ccc0c6c6ffaed397f0914e3dd8a6ff"
+        }, 
+        ["/Workspace/Packages/_Workspace/GamePlayButton"] = {
+            source_hash = "49a58b07a407ee7368457ae91fa872e9929154be1332d099b4439e8dfc481437", 
+            dep_hash = "3d3d93891b0d4ed2fea2140d01354c817b865e64553ab144d733f7968ca76a96"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameProductInfoRodux"] = {
+            source_hash = "d0f6259f974ab71b22d3481e628aea4cb7dc17cc7d053b8b86fd04ae11507cc4", 
+            dep_hash = "34c8c26322ccd37cbdebffe123dee740f4e419147295e3a4f660938455915a88"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameThumbnailsRodux"] = {
+            source_hash = "63deb06aa2b572d8287e540391cad47508024e94b9962faedc5320291c5188ec", 
+            dep_hash = "3824736bb2ee25ca5cd025e683c0ab0fbfa0c91a6e641cc068a88224128ed137"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameTile"] = {
+            source_hash = "af21667205057e704c142814e9ed08b4266a042d2bec03b1582e5546217f6815", 
+            dep_hash = "339821d55cc1605bcee24f1c131a0260eed1b8b02e4f28bd49933771527afbc9"
+        }, 
+        ["/Workspace/Packages/_Workspace/GameVotesRodux"] = {
+            source_hash = "df37b7c6b9b123ffa126bcec8ea5d17ab00371927a2235b239c1175af9f1451d", 
+            dep_hash = "5674da6bbc143ea6afd31b913a9176c2632296fd34dd38634cd2e8c666e9b231"
+        }, 
+        ["/Workspace/Packages/_Workspace/GenericChallenges"] = {
+            source_hash = "9fb4ec50ee2cb5ca2c830bd390823c9bdf947a43b7819e2f8881a2442305c461", 
+            dep_hash = "7fc13d7ee240a30d41543a3a01702b80ca0a1c82d7f2faaf908ea3814b0f33f3"
+        }, 
+        ["/Workspace/Packages/_Workspace/GetHumanoidDescription"] = {
+            source_hash = "0cb6f7cc59eeae4a1bc248111559525a2aeabdf32e2b43b64dfcf79a0e47e9a3", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/GraphQL"] = {
+            source_hash = "693e2eba8ada64de4254c335ac08dde3becec2fa49a39d285e0da756fae11376", 
+            dep_hash = "67bf7fb37bd82ed7f7da1ea52093a670c186a49d698c128e555709dd38adb29d"
+        }, 
+        ["/Workspace/Packages/_Workspace/GraphQLServer"] = {
+            source_hash = "af99cedb88f6c1247032a239cca291bf909f821879b1874598d139c12d656267", 
+            dep_hash = "41adffcd24b31deeadc52555ae47bf7ea25a639c30f2cb737591a79a80f00be2"
+        }, 
+        ["/Workspace/Packages/_Workspace/GraphQlShared"] = {
+            source_hash = "349347995f16f7f37c66503d048cd192aaf5e3ec7cba9ddacff0bffb89c0c2f7", 
+            dep_hash = "d04916c7bf4c74bc2bc9e14a5b420c9957195aa874f349a761363ea570e2570c"
+        }, 
+        ["/Workspace/Packages/_Workspace/GraphQlTestSuite"] = {
+            source_hash = "f93b559d9bef1960c3d89db9603dd089ae07f45fd8b479fa4bd92985350907f7", 
+            dep_hash = "c89cb3244b7465b9973b213869501bb78d7628b642802e56e8a4b382a353671a"
+        }, 
+        ["/Workspace/Packages/_Workspace/GraphqlHttpArtifacts"] = {
+            source_hash = "cffdfbac1e57d3ce27d1687e489f292c8d4a59a8a52a00c060524dfe255ce952", 
+            dep_hash = "85e31f615bbad59ee29989029adac79d3b6a777bad6236c5b80b7d46b3d38815"
+        }, 
+        ["/Workspace/Packages/_Workspace/GraphqlToolsMerge"] = {
+            source_hash = "043acb0dc749e2111c1cfcf493fff82993182d8b8cc06ed9880c7a0451bfc455", 
+            dep_hash = "fd92d4336b9ba3e08b4a750a0084cb110c25a4f4b9a346ba996f8b9a12feb672"
+        }, 
+        ["/Workspace/Packages/_Workspace/GraphqlToolsUtils"] = {
+            source_hash = "e90defd3d1a852ea69fe107ac89afd4f1e04bada9199963de1e335b44b76f043", 
+            dep_hash = "fcb3dfc58c8f4e9e1f31a1b4a85c27cb582b6cc9f7804df7c84a488d4b9a5b78"
+        }, 
+        ["/Workspace/Packages/_Workspace/Http"] = {
+            source_hash = "a733c1cfeadc6bbf11ab96a3c6e9367174514393a54aa8bd7138c104b4091de6", 
+            dep_hash = "bad5733d3bed5a8be5d52dfc456d45c9a71e65b5536f3351cb95c4fcce8eb1c5"
+        }, 
+        ["/Workspace/Packages/_Workspace/HttpRequest"] = {
+            source_hash = "6e7749285426d6652600f12e51d7f622cfac559058880954152f5ca808aca3a1", 
+            dep_hash = "344ca9cafc4d2d428e9b2c4ba0a74ca9acb69e4a87c2abf699e78571abfbecfd"
+        }, 
+        ["/Workspace/Packages/_Workspace/IAPExperience"] = {
+            source_hash = "de1c21c2fe84d4c8ab8be1cc7b2f88ca687a4538bdec0c5b74d7edec912e8d59", 
+            dep_hash = "5603265439dfda695d5222b611d88653979b2426a90fde056d0bbb391f831b2e"
+        }, 
+        ["/Workspace/Packages/_Workspace/IdentityProtocol"] = {
+            source_hash = "a2b76a84ea54dfd08c717b32a51511b70b8261dcfa415ee7a5d89d80058ad6fe", 
+            dep_hash = "01391835db3858156b3b65b6e2f7b4c0429c6b285b08357b0d247966daf1a04c"
+        }, 
+        ["/Workspace/Packages/_Workspace/Impressions"] = {
+            source_hash = "b5f40d9b0c6b34b1fa5b41a34342155eb7abb64e4c9913ce44310ce1b1bf4fb7", 
+            dep_hash = "8f554c9ee88be77fb471c9e420edaa6aa06b4654e13e94701c67cc5e859ad6f6"
+        }, 
+        ["/Workspace/Packages/_Workspace/InExperienceLocales"] = {
+            source_hash = "fd1e9f1d9bbdaa7cb8c862880bc8d5adc0363361e504205523a97759b8bd01e5", 
+            dep_hash = "46bdc2cd16e6bea4e995e9dbe7b2b9702c5a913835678ae92471941881e474c0"
+        }, 
+        ["/Workspace/Packages/_Workspace/InGameAssetReporting"] = {
+            source_hash = "862bb9f70bc4a1e7478429a70e4346993b1752fea92fc70ea304c18ad565a1f2", 
+            dep_hash = "93317acfaee15d72bc26a75e3b25fbcedebc1dd807edd9b72ff7486487b40f4b"
+        }, 
+        ["/Workspace/Packages/_Workspace/InGameMenuDependencies"] = {
+            source_hash = "771753e7ab82b138f3e958f0058bfc43ad73f79084e37895413beb51a6044eaf", 
+            dep_hash = "3ca538af0b123c5a02e24440ea08c9cbe8429200ec4efd5433aab6d00f02cb69"
+        }, 
+        ["/Workspace/Packages/_Workspace/InGameMenuJest3TestSuite"] = {
+            source_hash = "1d1936babfa0dde314e76ad4d7b6b99f56746f992e849cf153fd6bb7b59b56fa", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/InputHandlers"] = {
+            source_hash = "899db36a62ed2d8d7554222a9cba0ef34525b64e25eb6a719161f28037c46b6f", 
+            dep_hash = "1bf050f3f30d8611a82aead3d4c0afe82befbaf5d01a4fb436c91e56d9d147af"
+        }, 
+        ["/Workspace/Packages/_Workspace/InputType"] = {
+            source_hash = "70a1ba1b3e5b9dfa6bde95b8b4f1f23cf4eaba03d4c583a2e270a747a8e003b4", 
+            dep_hash = "4c4ad795a63ee1ec440de5ac373f52ae0efd45ffb96526fb0d4cb69f05751194"
+        }, 
+        ["/Workspace/Packages/_Workspace/InputUi"] = {
+            source_hash = "6d0b3d0ef847a3dc5dce5c41da1e0e001028c456f4ed3a3b292617727bc83c37", 
+            dep_hash = "7776a1fc794a485c53c4a744d52056940f51101921f01c99526da7a76c04888c"
+        }, 
+        ["/Workspace/Packages/_Workspace/InteractionFeedback"] = {
+            source_hash = "4830eb492043ed3a8325982908ea5e163304a3180be31c390b0d5d18c33893f7", 
+            dep_hash = "8e835098b8a9935139cbc198461869fa096a83049b2897a478b3e27ee23e27cd"
+        }, 
+        ["/Workspace/Packages/_Workspace/IntervalPerformanceTracker"] = {
+            source_hash = "492a18f74dbc9830ed750190894d814fc92043d5ba1fa15f1a9ad80a7264119e", 
+            dep_hash = "d1221874b8fb503015dc9ed0552ddbbb2b71685ada8185664f1de38c9b422591"
+        }, 
+        ["/Workspace/Packages/_Workspace/InvisibleMode"] = {
+            source_hash = "1989ba06b76e2fd116baa8da62e2e495ef6cdbf6f3999525705e9e4d972b8d52", 
+            dep_hash = "1e9d02991f14cbaa48691c7598193ce9bddc795fc67d2ad5f6157faf20eae0f2"
+        }, 
+        ["/Workspace/Packages/_Workspace/InviteLinkExpiredModal"] = {
+            source_hash = "4d3c5dc9cc2795e53c32a3363505e1b39d533d15661941fb658071945cb172a3", 
+            dep_hash = "b035eb09d4ca57e0033596d353a4cf6593bf4ff50c17a9e8eee4862190e56535"
+        }, 
+        ["/Workspace/Packages/_Workspace/ItemDetails"] = {
+            source_hash = "cde659ea35ff5d07d76a90004f93a6f808c1e409fbd6bb03b8bb3a20d269e512", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/ItemsReceivedAlert"] = {
+            source_hash = "180ae81b91cbdf53ecec573a6e35108041842e543b29e5167bf9a87abe855009", 
+            dep_hash = "2fab313a06fb06172ab21918aa42f332a823531e7fa4adf9f89acdaaf491047b"
+        }, 
+        ["/Workspace/Packages/_Workspace/IxpServiceWrapper"] = {
+            source_hash = "e5ca2aea6caff933a43ce5999fbc1f9f4a2009a64ca8f3becd32726b7b85220e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/JestConfigs"] = {
+            source_hash = "78b04df96db48284cd6f51290aeb8dc8e24504e7dad6d6d5fd330ee3f842f2e3", 
+            dep_hash = "68be093087e45ff4e52a473e55f8e3bbbf731349f16448f4854f1c29eae03e61"
+        }, 
+        ["/Workspace/Packages/_Workspace/JestGlobals"] = {
+            source_hash = "2ffd7654b2fae017c746fefac58d88783e01c66bffb12026be8568806d97c932", 
+            dep_hash = "e6a0980745f793d3e8b51d399b28003a9e4606ea24e3ee07ee4d435af15623cb"
+        }, 
+        ["/Workspace/Packages/_Workspace/JestGlobals3"] = {
+            source_hash = "f4f14a3eec6ae6465b98f98a34ae5a16b5a28657e65a7df4825437714cd8b3fd", 
+            dep_hash = "62782ffd8fdab93baad0a04766e2ac146b461811d4f12dfd6739e3a1813ac6f9"
+        }, 
+        ["/Workspace/Packages/_Workspace/LegacyFriendsRodux"] = {
+            source_hash = "021046c32e55b444b3f0acae385085de7d6ed638cdd645f96035864d379c191c", 
+            dep_hash = "33d76aa7580e3fc369cb504806cbfdddde2de5337eeb7e0910a2a2f3248bfd6c"
+        }, 
+        ["/Workspace/Packages/_Workspace/LinkingProtocol"] = {
+            source_hash = "9fba62727f160e237707e64e319ead2e3c74c6ab58a61bcf1123ffd3b1446461", 
+            dep_hash = "9d558c96a80c94d3ada7575318fe775daa9799da04964995df77b1f3e2ddf6e1"
+        }, 
+        ["/Workspace/Packages/_Workspace/Localization"] = {
+            source_hash = "d45e9130359c06688b367067b159aee7eade3631ef30d5538fd6c0e127ac9402", 
+            dep_hash = "7337be6267ef443f436f1208dba846ab86df93f4cb44385dda6ef18685d9e97e"
+        }, 
+        ["/Workspace/Packages/_Workspace/Loggers"] = {
+            source_hash = "6f27b7631feb50b4ef15b3bb684189aaa29f3cbfbae3b4284737c1e62a07b959", 
+            dep_hash = "4debd2d383d540e2c503f6042018b596447941997a75dfe290019ac70236f9e0"
+        }, 
+        ["/Workspace/Packages/_Workspace/LoggingProtocol"] = {
+            source_hash = "f0307907d20ccdec2f81f9bda97564d4a65a37a082593bc3b99ba001ed6a2b35", 
+            dep_hash = "b5e499a9cc80e1dcf786074d1dc4558064e656e3059927870bcb75d937a0d6de"
+        }, 
+        ["/Workspace/Packages/_Workspace/LoginV2"] = {
+            source_hash = "9e5532b8cfbde626b25d17017b088d621cd047ad4caa100fefd13ea3504542a6", 
+            dep_hash = "9d2e7b9914f145f679c7106b96ac2b2f7bc90b6273aa84d69a2907a0174811a3"
+        }, 
+        ["/Workspace/Packages/_Workspace/LuaSocialLibrariesDeps"] = {
+            source_hash = "f10bb45164dfafc8b04d7d506dab32523cfccf7d980206aecbb62857088a8e32", 
+            dep_hash = "8f0f2bcd186ef6b548f5fefbcd5fcf18b39f1f144a072e96aa36cbd5ea863da6"
+        }, 
+        ["/Workspace/Packages/_Workspace/LuauPolyfill"] = {
+            source_hash = "4514f4c8a0b6d271124a7735b4a08331d425628680761c25577a1658c5a4f067", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/Lumberyak"] = {
+            source_hash = "ea4513411ce6fed936ce84c5501e8bf539c309f7e6fd04d0ad9ae05256246fcd", 
+            dep_hash = "6146015ac4b0ffecee1ff5b6d596306d44e6d7fc5d878134c5c59f5bd8706908"
+        }, 
+        ["/Workspace/Packages/_Workspace/MessageBus"] = {
+            source_hash = "8060fc440bd6cbcc04d2d66f5bfc39d3aba4e7b04867ed3b55897b6d7eeedc4a", 
+            dep_hash = "4ceff31a80ba5ab2fde20677b4b13780040030278370648b80d1eb5396010173"
+        }, 
+        ["/Workspace/Packages/_Workspace/MessageToast"] = {
+            source_hash = "bec24e99b8e5693cd82807ffe2162efafea9866b68f5b64b4c4f4e2cb08e0669", 
+            dep_hash = "51c8607a223755bdd3ea948d18b883b09af37defd20784ad6e7b2b770c500c11"
+        }, 
+        ["/Workspace/Packages/_Workspace/MockEngineServices"] = {
+            source_hash = "fbaf350e33c5a70f5ad3624837f62972dd650f12862645a041f43ab36f360e69", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/MockableProxyServices"] = {
+            source_hash = "c73019ed1323ad5c797c87faa7c72ada0d3187f679d3959241ebab60b2a4072c", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/MultiPageSignup"] = {
+            source_hash = "f7ab770dd3c983d8854e951d9a4db4dbba726ceeaba2354f569b78f4b92cc556", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/NativeUtilProtocol"] = {
+            source_hash = "b97a608c276e304d39337dba2fd041f2d746e13fdae8b11529349f285216c8e4", 
+            dep_hash = "01391835db3858156b3b65b6e2f7b4c0429c6b285b08357b0d247966daf1a04c"
+        }, 
+        ["/Workspace/Packages/_Workspace/Navigation"] = {
+            source_hash = "27746b5d01d9cdede3ab321502a876860273cd35210219f392b3949f9bd9bf2c", 
+            dep_hash = "de3bbd83ac10ae7004fc00d1d14a6e89ba37a0b6000b90fcff5ff6841c51d4b2"
+        }, 
+        ["/Workspace/Packages/_Workspace/NavigationRodux"] = {
+            source_hash = "620e6c14a496047ff2533ba7216bcd42dabfa31d58b7419a249abf1103a01e53", 
+            dep_hash = "35b5d3bd3e78f41d800d48a0f43b1b2afe594c3426486973d8adcc550f2f4e83"
+        }, 
+        ["/Workspace/Packages/_Workspace/NetworkingFriends"] = {
+            source_hash = "10b87440cdba6f618d8f6d69f3b3a7bfec912b3f4beaab2962db89330355dd72", 
+            dep_hash = "91849711cedcee59f78dfa3bd9c455f1d312c5698f01d570a6bd0d14187a5cc4"
+        }, 
+        ["/Workspace/Packages/_Workspace/NetworkingGames"] = {
+            source_hash = "7110fbbaad7a1433bc86aa184abc9fafc3b6d2790935a3cf701d51f2b1a42de9", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/NetworkingUsers"] = {
+            source_hash = "93c8c6b0745326665d9bb695c9d98cccdcef82ebc7c047654159c5f609b9feaa", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/NetworkingVirtualEvents"] = {
+            source_hash = "5d81a11a5632cc4e902445fbdb4af6ba996a3fb93f89ef1d7f478fc44e714a60", 
+            dep_hash = "8584f168e39a15d680bac362c992af7cd2ba44c73bf3a804fd024985a81cb1bc"
+        }, 
+        ["/Workspace/Packages/_Workspace/NextDataExpirationTimeRodux"] = {
+            source_hash = "043fdbe307423935b58f3e74287850ae95cbaa88fca1ce6f31a7462f72f429fe", 
+            dep_hash = "2ddbde26f8601ab0dcaaa97c0fa963f2e720e7c7d03f961cf0375ea03a31dc05"
+        }, 
+        ["/Workspace/Packages/_Workspace/NotificationModalsManager"] = {
+            source_hash = "06c302366d1b7a78a26ee719647760690119f8723864e4cc57777745ddf272c2", 
+            dep_hash = "31798785d53eca6e94ba0c7eb17d0fd75694287aa57656d0224410a808dd5b33"
+        }, 
+        ["/Workspace/Packages/_Workspace/NotificationsCommon"] = {
+            source_hash = "2883cc92d997d67466982ddcac99becb527f3652e1b6f0c6f562858c01a8bbe0", 
+            dep_hash = "57427771f65a2c401b53b24115e2d2b245bd21f5253ad777fe77a95c2735efa1"
+        }, 
+        ["/Workspace/Packages/_Workspace/NotificationsTestSuite"] = {
+            source_hash = "d4d0fef7153c8741087f30f1fd6773825d3079e9185c123d97ead09cefd323b9", 
+            dep_hash = "58a773a653a76c94b5aaf5468b0bc8fa00fad8c29f7fd3f8c51092a0b50174a1"
+        }, 
+        ["/Workspace/Packages/_Workspace/NotificationsUpsell"] = {
+            source_hash = "ab8595ca7f82547ed9decb80f42796d8630c93cb6f42e0b05ae5f6b0e647f87b", 
+            dep_hash = "3754693bd517bb2a503a5dcc1fd137565173a423aa538f9cc6fe8c1c6fa52c9c"
+        }, 
+        ["/Workspace/Packages/_Workspace/OtaPatchLoader"] = {
+            source_hash = "3af92c69f0f057ed41b32fe1a772f1d0ba2dc2077b8bd2164374162ea065e92a", 
+            dep_hash = "243c750a13f089ab91cb89bc3229e31a8271acaa58aa68d53ea027110e14fe75"
+        }, 
+        ["/Workspace/Packages/_Workspace/OtaPatchPackagesStatus"] = {
+            source_hash = "d73cef98af4756a78fe8d0cf8577fe98c7a0942dfa53512f41c278a74d6b5017", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/OtaPatchValidation"] = {
+            source_hash = "bb7a61e51e8ed8f0f74737d93325194fec64bd64330019d36f91b6ef28de5cd9", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/OtpLogin"] = {
+            source_hash = "e3c158b8b3dfa8c9eadde678bf5f28b8061fccb3f393df7f64f71f299c5d8fdf", 
+            dep_hash = "233c18efdef9bd239f3814276fdc20c234bd4b2bf41b4ec34c7d575d76d7ff21"
+        }, 
+        ["/Workspace/Packages/_Workspace/Otter"] = {
+            source_hash = "70be5a4edfb1637bb0658b0b39943b4739fb6948e0cf6d1286390dd2438a2d1a", 
+            dep_hash = "f5d2150a5b649ead7b640b08daac100c01a91c57080c592c4de404516be9c587"
+        }, 
+        ["/Workspace/Packages/_Workspace/PYMKCarousel"] = {
+            source_hash = "41c97df3ddae47129b94a5aee3c9d4f8f355cf61041d2839b6c956a14b9b5126", 
+            dep_hash = "aa0eb1cb99dddf0fbcd6299215524c6470613799fa174cd9f14b2eb17d025685"
+        }, 
+        ["/Workspace/Packages/_Workspace/PaymentsProtocol"] = {
+            source_hash = "1bf83da099402d5f0d5ff8fae2b86cbe8601d2f9b3f327be46933947f67cb505", 
+            dep_hash = "579c06ec3d5e3cd5a716edb21bff8e164de2379395605bf63953cf57e5623cfb"
+        }, 
+        ["/Workspace/Packages/_Workspace/PeekView"] = {
+            source_hash = "23572249b11ba1a724c09d9f961b1ba38a2cac9d1cb2d426150873d2dc37d198", 
+            dep_hash = "785ab44ebc9b40aefbce41a6e132dea0865a2eae0ae34d9d3c6b6038de76e46f"
+        }, 
+        ["/Workspace/Packages/_Workspace/PermissionsProtocol"] = {
+            source_hash = "bda53c055d243bba8012f59020a5864d63c0a1ef429c09af842698d9bb30eb5b", 
+            dep_hash = "fdeefbd88ec301f53291b7d8c025512fa9487baa4fead71e9f19549feb17b85e"
+        }, 
+        ["/Workspace/Packages/_Workspace/PhoneUpsell"] = {
+            source_hash = "55ff9ae98bce897143078e31bccf47ec7d1fc4b23ff3784d9ed6ba9a875a1401", 
+            dep_hash = "2888e823ad9ba7f45d370304120817a942b4a3c7feb95371178f6808e8c2ecda"
+        }, 
+        ["/Workspace/Packages/_Workspace/PlaceInfoRodux"] = {
+            source_hash = "e335bf136e1cff5314d478eba8ee4f8c439aa8e1bbaceb2aa448b91a29d11cc8", 
+            dep_hash = "4a0538f72700f566bb679bbcd0bba11d151245f1471f079df24e0046b3c237fc"
+        }, 
+        ["/Workspace/Packages/_Workspace/PlayabilityRodux"] = {
+            source_hash = "04769987d3bfd2a07f9a737dd8a2db9ed9df7ac2c6c7b7eb2479cb0e702cc728", 
+            dep_hash = "3c7405f75465fdc8a6e328298b679c8fa18192b35396a0b3334d0441fd4eed45"
+        }, 
+        ["/Workspace/Packages/_Workspace/PlayerContextualMenu"] = {
+            source_hash = "aaa321cae31f04bbcb19cb82a10cbea0fcd9e0f1b43b9ba9ddcfcdc503522e76", 
+            dep_hash = "7e64610c28360940dd7ea87d290ad6e1e6a9786f5f1e48a885d184fcb272a885"
+        }, 
+        ["/Workspace/Packages/_Workspace/PolicyProvider"] = {
+            source_hash = "8b31d5c89fec9b3b9515e756dbb48f385b1bc5d941132638a7a7cf61756d9725", 
+            dep_hash = "608c1f4ae29e23df682c6079769c1aaa1fb28e68862d972549f2300931203919"
+        }, 
+        ["/Workspace/Packages/_Workspace/PrefetchProtocol"] = {
+            source_hash = "600ade04f2a29123a7188b8c5899c367a2a850f7d48d9ccef0a7c741fe1890d5", 
+            dep_hash = "3bf5b9351bc1cd973a5ba17dce107094c57d3dcd8f85eadd535487db4fa69188"
+        }, 
+        ["/Workspace/Packages/_Workspace/PremiumSponsoredExperienceReporting"] = {
+            source_hash = "3e03b6ac5122fb07f41977e20bac577c315c04b6031101648f43ec7d0cc56b3d", 
+            dep_hash = "d1221874b8fb503015dc9ed0552ddbbb2b71685ada8185664f1de38c9b422591"
+        }, 
+        ["/Workspace/Packages/_Workspace/PremiumUpsellDeps"] = {
+            source_hash = "373f7521a6dd529eb8c614cc878c6bb7f3247895b58f164f556b570e6b5031a2", 
+            dep_hash = "54dab61814f41fa5df5c92c87a386322e4869ae5c58799b1ff3e26b59076c703"
+        }, 
+        ["/Workspace/Packages/_Workspace/ProfileInsights"] = {
+            source_hash = "db8b18858b409538f7b5e876d9902e1af6b9ab01947d622376e4c1261d74f8c8", 
+            dep_hash = "0ef74df9640c2d07da0bdf9ee3221ba96a96599bfacd1928a52e2ca01a5a925d"
+        }, 
+        ["/Workspace/Packages/_Workspace/ProfilePlatform"] = {
+            source_hash = "8dc0a51fe5db4482d27febc84f6cd898ffada8724fdb777769bc043aa7f43534", 
+            dep_hash = "ac19e7144b9c61bef3bb4c82b4460cc091c49a595626cc7f5d09816fd5b06c6a"
+        }, 
+        ["/Workspace/Packages/_Workspace/ProfileQRCode"] = {
+            source_hash = "ade7e6310cebdde5092ac03428d6a22c9fa0f61d34565922d3c8d8ad022d80a5", 
+            dep_hash = "3f371d49ea72ed2bd6ddc72b43ae1fca89be875a26c69fa61aac7dbad9059c9f"
+        }, 
+        ["/Workspace/Packages/_Workspace/Promise"] = {
+            source_hash = "9120d0dc7e3f33fcf3295468ef5abd1f64f5a2b1ce7c9ce47d10e9eb9496530a", 
+            dep_hash = "3079146a6c91729db2ddaad28e010b8acd3109a0342cd6abf8b47d8fed872766"
+        }, 
+        ["/Workspace/Packages/_Workspace/PurchasePromptDeps"] = {
+            source_hash = "d77eeb62465700f6a4a50f3ab312d8781f018bbcbe312459672e3ffbb4243092", 
+            dep_hash = "db4e85f82d42017449c04f07d69519f1a4abad5af90f6fb92ca66bc10372ec7e"
+        }, 
+        ["/Workspace/Packages/_Workspace/QRCode"] = {
+            source_hash = "780566f710c5d375632b7d970b091a8ab50834f26bbcb4bf4e2bc81e70ceafd7", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/QRCodeDisplay"] = {
+            source_hash = "cb232116e1dcbbf0786ee669f104c6bd56175557b0c63b31904e76c4a2c508b1", 
+            dep_hash = "72d7033a7b9b0d7da5595db557a44b0bdd25b77dbcea820dfdfb35f5353f59a0"
+        }, 
+        ["/Workspace/Packages/_Workspace/QueryRefetch"] = {
+            source_hash = "92ef0712ba4c8967c5c0a5b91f5f6bcbf60e4b1c740ece09e8cff1e19d6fbfd2", 
+            dep_hash = "655fbe825883e218fd54f2d21e518c1aaad7f93af9517d8add2a5168bb8b2c68"
+        }, 
+        ["/Workspace/Packages/_Workspace/React"] = {
+            source_hash = "7974d9857679b7e8858f0904b6ebfe62e811c5290482dc1bb8887d0faf3a34c4", 
+            dep_hash = "31a2857e3d0ce2adde94816f07dfd9046251207fd8f729591a9f7953e08b323b"
+        }, 
+        ["/Workspace/Packages/_Workspace/ReactFocusNavigation"] = {
+            source_hash = "5d6d0a87c944425fa6c004e1210a013b74a51d074e5b0dc1f2c75d1c1262fa3c", 
+            dep_hash = "691c771c870797b115eee9ac302cf08d5e4b502551bf6fb778b0a99b2721ff10"
+        }, 
+        ["/Workspace/Packages/_Workspace/ReactIs"] = {
+            source_hash = "a548dc25988749240268c1646f8b2923c68b7893174bd9783e566ed7cd49f753", 
+            dep_hash = "c33a1278f1c88f8400110da7304af8d9dda3e21ccd6db634c54505515170b3eb"
+        }, 
+        ["/Workspace/Packages/_Workspace/ReactOtter"] = {
+            source_hash = "b70b30a98d8fcc98b610bd35990223533e165dff97c0e6d0e934e866601ae683", 
+            dep_hash = "9db154dc2e6966dc9943596f8c85bdf9ce1e500ca97da05098da4c81c7aba77f"
+        }, 
+        ["/Workspace/Packages/_Workspace/ReactRoblox"] = {
+            source_hash = "4182e2d02f5cf7961ed26552f3853a3e84ae3b72851b1348be699bcb3ff8346c", 
+            dep_hash = "8f4717bc3d420fdb7759c33d36be1e8ee00a028704b5161dc7ecde74fb167634"
+        }, 
+        ["/Workspace/Packages/_Workspace/ReactTestingLibrary"] = {
+            source_hash = "39b5fc3a257e950cab6163591a7f0813911d234fc0d86c75a54e3578b6e631da", 
+            dep_hash = "4ad08c5abfd75b517128ffbf6d0c29a4a6dfb49bf248b6d1ad2c5a83d40c073f"
+        }, 
+        ["/Workspace/Packages/_Workspace/ReactUtils"] = {
+            source_hash = "9ef8c43be8e568d9a00aa14e7e6d12b07e5726de2f76bb1742f50ef966330d73", 
+            dep_hash = "83f81391a144b936fc02b8f29c56690851f296d8418ed3225a8544af4a0178a1"
+        }, 
+        ["/Workspace/Packages/_Workspace/RealtimeDelivery"] = {
+            source_hash = "7974670b74dd8d71205f390e0268b66e493fad707f33d3faec4a2512ecfa9d1e", 
+            dep_hash = "0e0b81e0b83a9fbaa7b558158c4c90de6e5bf0cded124d8312fd6267376b0250"
+        }, 
+        ["/Workspace/Packages/_Workspace/RecordPlayback"] = {
+            source_hash = "b2db03b0432b46596a4828ebf42e208691dea05198403d6dd4637f0a388d8420", 
+            dep_hash = "1806e10fc8186ce91df40f83fb4a0fe37c031dc9e5f03447e40b34bc86691c19"
+        }, 
+        ["/Workspace/Packages/_Workspace/RegExp"] = {
+            source_hash = "9ee46871e8d11239d8ee3d1b9dd10ad220faa0996ce73b7cc138992c02047fca", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/Responsive"] = {
+            source_hash = "30b3819e744aef6177a81390d9f0312cf6abbc29cab4b7ec82e180dd4b807d77", 
+            dep_hash = "236c93047290fd456c47b25195f1f59ce05b66c24c4a7a753ffa32254c88688c"
+        }, 
+        ["/Workspace/Packages/_Workspace/Result"] = {
+            source_hash = "311f195adb3787bedce23950fe4957d829651020fa3fcf62a740085eb07af1de", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/Rhodium"] = {
+            source_hash = "aa5a62e0caa5f099df291adcc3c6fbe15b60233bf73a3c812eb50abb9e665438", 
+            dep_hash = "3dee51d2e28b59949ac1183f026a22ae603490fec04541d2e2175442d421918c"
+        }, 
+        ["/Workspace/Packages/_Workspace/RhodiumHelpers"] = {
+            source_hash = "66c96071d466533f0c7f89b68aeaff319d215b3cc392508b42988ae78d9d0169", 
+            dep_hash = "f97e78b9ae3bbf4292f91baedcbabd2471ba60bc33a26a4d317c3db828846c1d"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactAppExperiment"] = {
+            source_hash = "fb9dc872f7c2f3ee2c3da454fa516323d8b7824d54d7483ed0edc9be0d11e735", 
+            dep_hash = "a54bc4d64fe07e32b678d5c0a149377b430116c1f02fac316470e7a26c31e8c8"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactCompat"] = {
+            source_hash = "fa054db78f627abf25ba938472be3f232840c1f9cdfc606637945ae2d729c9f7", 
+            dep_hash = "272dbd525077d1f5203c75454919f094301f5910a0b92d62968877f8d2448898"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactGamepad"] = {
+            source_hash = "d18651e4a6c1ee467736a57fca26fba12b3c4ceef443c3ab5de3381a13649b79", 
+            dep_hash = "33baf06a03d2f021897d27e3cfe752b3d35d05d346a84b6b5ad2fb5db094ffa7"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactNavigation"] = {
+            source_hash = "281d4941f2fa9a251c11f1405603d18ff65795fbf4bc3f29ea0e4bc1fc0d5074", 
+            dep_hash = "298723a9e0aca0ac04ed48d5b30b25908c52b9b6e572ea29475501d8112a862f"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactRodux"] = {
+            source_hash = "8de49a8c010fa1009d92d76abf807262dd07bc28e53e4c1f5f071a723cb2f59f", 
+            dep_hash = "61be5069d2193115a57b508e3a2ec4cf7d54763b9b7cc663f9fbf77f009f3daa"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactServiceTags"] = {
+            source_hash = "03ec188176bf63e7a0863ce35cf1ad29adfdf2049343244dfec897cf9d129d60", 
+            dep_hash = "bf4cd89fb75986ff5d0ed45c363b8d4334045c29b3b63ed05eaf4061ba471f20"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactServices"] = {
+            source_hash = "de6b26237d927d035025597efa0c51ef1031bb231c30d9dddfedff4d623a0eb3", 
+            dep_hash = "7d2ad3286d44bdbc6973425e05cd011d04070e4d96290e2fd271104ac5a073c9"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoactUtils"] = {
+            source_hash = "40675b9a454e6b928d204b00039668c5d35a4d870478b5570c3714f4ab86506f", 
+            dep_hash = "38101abb12d5ab2ef86d9d646f65a6c61d636f90270b174ca7c73d5efd840285"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxApolloClient"] = {
+            source_hash = "848f5d5acf3884616c0c20c58478d48cd14f34b3c9a69a5dc81c62a96fbc175d", 
+            dep_hash = "2147b6d1265e1c920ee43d8243232af7e992c294a7df16027e00626b02ca6dc5"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppAssets"] = {
+            source_hash = "c4a499066f4c4dd9a10dc9c5a2c0f2505cdf437c5aec86cee61f92f961dfa2ac", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppEnums"] = {
+            source_hash = "7ee9b8d8f571f2957c9b60c65ddc6c381c9125b9944b400af5a4623b06c3853e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppEvents"] = {
+            source_hash = "5ff16b7a8e561d6d5084e616d9d727ea6284f848249442bf61d63f2d18f298f8", 
+            dep_hash = "0e0b81e0b83a9fbaa7b558158c4c90de6e5bf0cded124d8312fd6267376b0250"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppHooks"] = {
+            source_hash = "f131d89bfc6eeb1fe2caf0b1baf3aafc45546ddc91b987e0506cf3421c4a5d8e", 
+            dep_hash = "ff401c304e7eeeb82068f5c110492d2843d9756775ec849693bab043c6f13353"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppInteractionFeedbackConfig"] = {
+            source_hash = "b83427679467557e24379f43d63dde7b74474e45ce052331815939694cd2f633", 
+            dep_hash = "63d64cfe35ccf2240243a1f327f660807352ee4c5f7f186992ff7a49550ea28a"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppLocales"] = {
+            source_hash = "ed518906841aaa15ca2b3264567438c2d85172ea7b2eb21d4e231178e8bb27b9", 
+            dep_hash = "46bdc2cd16e6bea4e995e9dbe7b2b9702c5a913835678ae92471941881e474c0"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppNavigation"] = {
+            source_hash = "fbe9a615c7508881d0edf2b1069b3284303f345d74ffab7644deb5f298c61edb", 
+            dep_hash = "f80e9502a788cbfb431eac71a11f46ca62c6177b9bfd662d500122ffa999b40d"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppSessionization"] = {
+            source_hash = "78837c5385a6f72a968e50ec4783b87a3d5e4e7badc4fd147e437405b6454765", 
+            dep_hash = "4c4ad795a63ee1ec440de5ac373f52ae0efd45ffb96526fb0d4cb69f05751194"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppTestSuite"] = {
+            source_hash = "d4e3c16344da3226c892fd38acc3cbd5de91ec4f1719902f80edcdc67777a0a9", 
+            dep_hash = "3f1325e554c3d2e165076218071e6d04fde6f2afae69186493566362e78135b8"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppToastsRodux"] = {
+            source_hash = "497858196b4823b83d7e27e725a002723a603d0b5bba91e28fd30a44a8db80c6", 
+            dep_hash = "1c752de9472e5c22d1d830357944a43a9e17e1cf2b00272d4bbf6495c515976e"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppUIBloxConfig"] = {
+            source_hash = "2a718813825c7cc04888e57b3cd3c086f084a99d0b41f8ceb9dc84d4e3cbef10", 
+            dep_hash = "1fd62c8c8b31244c052c80781e65f5fa057ac2a7a7582d8dffa5d913495a502b"
+        }, 
+        ["/Workspace/Packages/_Workspace/RobloxAppUpdate"] = {
+            source_hash = "9baec7cf5319beece11a720828e05e182cf17326ee25746c95ab280cee5cd626", 
+            dep_hash = "15df886a95f8b99e0fac8e3778cd06898b7925dcbe4f393747d6ae83e0bb3f07"
+        }, 
+        ["/Workspace/Packages/_Workspace/Rodux"] = {
+            source_hash = "b3d95161153a774ab0dc52a64be19f2d85b7e812e938ae48a353e0783b4f7d4e", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoduxContacts"] = {
+            source_hash = "21b66e5f65851b3c68591b0c8d1284d07ba109948f6402b53d55e09abde37ded", 
+            dep_hash = "5147a73d871081407c9e47d9818ece52b03403ee2ddb67e2058acf7e5e4c8886"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoduxFriends"] = {
+            source_hash = "3a24bb2b5c64a94aa0aef7d2a05b3ebb1d99a6a192ed16b8848d86109bf124f1", 
+            dep_hash = "46199d3fe8aa2953075758ceb3dbf91ed10d813f44db8c5a3b1875adb8dad71e"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoduxGames"] = {
+            source_hash = "72925a65af59ccdcecba329572c5b06804d060be32145d88f6c3c672af079dbf", 
+            dep_hash = "092e68d0a4d3e2a87d6fbcbb580ba6a10bfd0ea2e37119c76419b550a9997cdb"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoduxNetworking"] = {
+            source_hash = "77142060f918e61f21ddd2cf75ffd783e7c902692b686bfb2583a5d43b9241c2", 
+            dep_hash = "a1fb2e2ab29ff05c1c2103d32b35b8d720d87d4193ddf56832e254fe9064fbc4"
+        }, 
+        ["/Workspace/Packages/_Workspace/RoduxUsers"] = {
+            source_hash = "adb8fb8488991775455318cf91409dbe3ca65b9b1317948dc505002db2292a11", 
+            dep_hash = "bf9b43cb84c119838a83b2d87c1b8a8ac8c372fca0f5180e7f7178e2df166e99"
+        }, 
+        ["/Workspace/Packages/_Workspace/SMSProtocol"] = {
+            source_hash = "f40ec9e38f62895aac4c7146748a6514d4acbe627f828fc9599606f2c393df78", 
+            dep_hash = "fdeefbd88ec301f53291b7d8c025512fa9487baa4fead71e9f19549feb17b85e"
+        }, 
+        ["/Workspace/Packages/_Workspace/SceneManagement"] = {
+            source_hash = "c6dd11521923c2b3c1ba17e23640c13580223c68c7b14ce99e754cf0fe551e74", 
+            dep_hash = "4c58fb204836def654860708ee713db54c62bd6d4dbabbf5d2a890a3cd3a0aa2"
+        }, 
+        ["/Workspace/Packages/_Workspace/Screenshots"] = {
+            source_hash = "3d458cc31a014c0d7c105ef1f6d9d5acd451074e152cb496e2c842394b370508", 
+            dep_hash = "2d098eaa7888bd62fa889cfe4fdbb59fb14e912bd477767473eddf8e9ffb0143"
+        }, 
+        ["/Workspace/Packages/_Workspace/ServerUI"] = {
+            source_hash = "6e11639d204b7a6fa056c9b6dcbbbfb41a4259fc8fd65bdc1fe20b853ce4b9ed", 
+            dep_hash = "8feec95e05633c6d340e9ef98d0c4ff9e6fb33aed3bf5151813c22d238d842be"
+        }, 
+        ["/Workspace/Packages/_Workspace/SetAlias"] = {
+            source_hash = "5c93aabcab7b311f711d02ec3f216502364ea746228a4f405b542873938f9247", 
+            dep_hash = "6b81f3cb81aa721ace4eed74c1ace76a4dc267724e2d850f6f99d638b517b510"
+        }, 
+        ["/Workspace/Packages/_Workspace/ShareLinkInvalidModal"] = {
+            source_hash = "d656192c2b73870e53ea57b0f721b1e85938e61bd04446b4d409ab63662c2096", 
+            dep_hash = "02f2a96ff8c87be3d4635c46a43919a9979e2ed9300cff957fee1641e1d201f1"
+        }, 
+        ["/Workspace/Packages/_Workspace/SharedFlags"] = {
+            source_hash = "4b96bdccfb92d2c8aaabded8a3da841751f09fd5d1edf57d181e98a018069462", 
+            dep_hash = "0e0b81e0b83a9fbaa7b558158c4c90de6e5bf0cded124d8312fd6267376b0250"
+        }, 
+        ["/Workspace/Packages/_Workspace/Signal"] = {
+            source_hash = "8e53741c2d6d30d136f4b763fda6e1f9a934ed392a769f524db476b4f237f425", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialAppIntegrationTestSuite"] = {
+            source_hash = "a242bd76761b7c7500cc8a5d763b6cf1d0f609130d3311cffd750570a2d4e5ec", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialChatToast"] = {
+            source_hash = "df7b9262a815766ff655b8feec26b922aca3c620bcfd04e6e3e916e9b8c9cd56", 
+            dep_hash = "07387d840da8267178ae83ee9453e36982716d67742a93e9be56f3b97f5dc60c"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialCommon"] = {
+            source_hash = "c84cd14d7c070bdbf4fa40d9660c3415ea9ea3c3399aa947620bc74f4399001c", 
+            dep_hash = "b490d3d08abeba18d0778b1f1459308ed09c8b8ce00061c0b05a9ecd49770366"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialCommonTestSuite"] = {
+            source_hash = "d957478d103a56a29cb3f52d4baee4eeab12a60637a6f7fc3dd21dfc390e2db9", 
+            dep_hash = "e3babccbdc2793116905938c0f1f474cc20c5949efbfd1bb00bea082de1935bd"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialContextToasts"] = {
+            source_hash = "432c7d8a8e8eb5ac16b8765f508746994889e415539fd5665051e02fc97ea2cb", 
+            dep_hash = "a8bd51cab6d7929564522782aa24d581324fc3ca80533754e468d50d3ec8cbce"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialLuaAnalytics"] = {
+            source_hash = "1a409a4bbdffb49a03c5bb70e31174c2db9f69806b3fa7efcd16548907e60f3c", 
+            dep_hash = "15137c704bcdfa2d4ee0f5263d8ff193f46bfb7b704f301caddb11e7001b8c0b"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialModalsCommon"] = {
+            source_hash = "5006160ed402b02b833b14631d2d15324f4fd8b5450dfdd9bbc8be4de4a5f14e", 
+            dep_hash = "07387d840da8267178ae83ee9453e36982716d67742a93e9be56f3b97f5dc60c"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialModalsTestSuite"] = {
+            source_hash = "502dd3bb6f2908ab17ad80eeca26ae411fedc097e64a4f98667e313bb1ca43d4", 
+            dep_hash = "e29e100b3d7f19a4453c286ed036249ff86205c494d40e69969a3263d1e64ff0"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialOnboardingButtons"] = {
+            source_hash = "2ea16ea63065d8a77b27077f3f14321b67a4e31ae738cb4a327d81e9b43f2980", 
+            dep_hash = "b4db0851c7e526fbe3bc44d2aa94db9454543fcb0472d20e6cbac055ae4115ff"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialPolicies"] = {
+            source_hash = "f7edd4dee250445bb8014116eac96d4926f48f5471494055d88ac748234d0dc3", 
+            dep_hash = "4c4ad795a63ee1ec440de5ac373f52ae0efd45ffb96526fb0d4cb69f05751194"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialReducerAdaptors"] = {
+            source_hash = "ff71f1789a779161a02bca7857095f68e5004ae5f53fddc51d118446b658a876", 
+            dep_hash = "d32cd9433186525dce6ef484c20b8d54196e251b6e42b3c391511241687cd9f1"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialStopwatch"] = {
+            source_hash = "4e5a434c8d1f17f59d3b7cf93f64cd2bc8755a3b98a25f8e7f76846983d98af4", 
+            dep_hash = "33597f62eb237e6cd67a2f8af3024540144b6fce68c6bbadef568649ce73cc84"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialTab"] = {
+            source_hash = "f0edc5030b01da9997b42f25d343e2961caa9bbd3515d2d809ff07b636f8a43c", 
+            dep_hash = "e0ec88eef32d8148ac2c0be35cb0fd6344e13173daa421971399f44969c6558e"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialTabTestSuite"] = {
+            source_hash = "f17ec1335d91f235ec5a164d5f1643575639130c063b84bacf75926379d56306", 
+            dep_hash = "7821543a57ce8722a875f74598f21cf988a24293da2ba9f40a1c826fc0283792"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialTestHelpers"] = {
+            source_hash = "ce7b56b7f5d1485b39b67630bdefa360abf7e179135852b582e5837bb4c106ae", 
+            dep_hash = "8577ac714f2a36d06785182a348f2085d8296e14cce4a931acd71717b8880ca1"
+        }, 
+        ["/Workspace/Packages/_Workspace/SocialWidgetsTestSuite"] = {
+            source_hash = "6fa5e7a1a518f385492d5b53f34eb9b0a802cd644a6748712383dda77bfa73fd", 
+            dep_hash = "d193c2ba51253cefc558d853f9e130fadc0da6fd0a38dbfda2bb111321abdf3e"
+        }, 
+        ["/Workspace/Packages/_Workspace/SoundManager"] = {
+            source_hash = "57f781bbad626282141ccaa3651b657d9177a454196c03cee5d22d671037220f", 
+            dep_hash = "b5a8b701fccace23ea7b34022be7e7c920b4607350e4415d3bde1d6eaa8f6ddf"
+        }, 
+        ["/Workspace/Packages/_Workspace/SplashScreenManager"] = {
+            source_hash = "f40a54dd7dc7a3582a5f18d0c17b743fa14f9ee8c85c94c8020448281415a268", 
+            dep_hash = "41ba898951cec9739fe6659c522481f9b0fca90f11522cce07ef28a5f4c83642"
+        }, 
+        ["/Workspace/Packages/_Workspace/Squads"] = {
+            source_hash = "e732b26ed0c59854d567c39202e2453459ef81931891382e4688e6d68f12b2ae", 
+            dep_hash = "857992d44b8c02f515f1df3af357bf0b057750edd42b329731aa99f3dca18647"
+        }, 
+        ["/Workspace/Packages/_Workspace/StreamNotifications"] = {
+            source_hash = "8a55a28eed8f54ce86cacfc6b98fd4d73890a173d0a4903ff7a955474cfef546", 
+            dep_hash = "098d895eb0b013fd30c86f89f31d1f6d76653afc2ff82c87892f8ae261acf950"
+        }, 
+        ["/Workspace/Packages/_Workspace/StringUtilities"] = {
+            source_hash = "62c910dc623f371c14e0d52b2693af47076e4f7a5b435b26e9305a890e8a2ab6", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/Style"] = {
+            source_hash = "ccfbef31765d7f0c271ca9255655419004f3a6502d1c81df988bf73d1a8690d2", 
+            dep_hash = "048a4b471ab1658190ccbac2ce32bb062e7b921637533f7028540c43f8f552b7"
+        }, 
+        ["/Workspace/Packages/_Workspace/SystemInfoProtocol"] = {
+            source_hash = "eff34ae7d25e2967047fb855815b7ae17f573948ea06bbb4814ca9688dfd2600", 
+            dep_hash = "f8932ba91200ddb8ae5d49244b429d916e4a346484887e34fec6e86be7adf187"
+        }, 
+        ["/Workspace/Packages/_Workspace/TemplatePackage"] = {
+            source_hash = "d3a457056c32016f37a4627fa817508407d39bba2e567c29f0d7fa9afe82143b", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/TemplateTestSuite"] = {
+            source_hash = "552b04b484a50e98bb7a3f7663a274f9599335977276dfcba5262be4ff6db3cb", 
+            dep_hash = "aa6ac2bf761764a0cc14b2e8ded1ffafed073cb46f57c402eccbccf58c5cff52"
+        }, 
+        ["/Workspace/Packages/_Workspace/TenFootUiCommon"] = {
+            source_hash = "b62eead83f9984719bca1583ec862f90f49444b5f6ca62fd66b7bb65aecb4526", 
+            dep_hash = "70c7a4db05422a74c674bf8ffda5603579c43f2b5b8bbc9876e21bd50964c31e"
+        }, 
+        ["/Workspace/Packages/_Workspace/TenFootUiControllerBar"] = {
+            source_hash = "6b87203ef1b944943100ab65653b5032de7f9c4be02696dde456386a36b028eb", 
+            dep_hash = "a7686f00545db5cb925f932583da662bb9e655177a7dd06ec695b0b52604b7d8"
+        }, 
+        ["/Workspace/Packages/_Workspace/TenFootUiEngagementScreen"] = {
+            source_hash = "be1399c55894eff6c8e280d58dbe95d8c5500a978f6f65e208ebcf0e71a1f0a7", 
+            dep_hash = "e8e9beb4b06091e133026e9e28ea0997449db0052ca8f4fa8cfa5ffde9222645"
+        }, 
+        ["/Workspace/Packages/_Workspace/TenFootUiGlobalNav"] = {
+            source_hash = "54589ad1931a879215644d7d72b76dd73b9bdcb703f57a973938da7a440a3cba", 
+            dep_hash = "71facbdedb59734d49e90120236b5ef265b23fd2a84e369d6181e10273ae3e68"
+        }, 
+        ["/Workspace/Packages/_Workspace/TenFootUiSharedComponents"] = {
+            source_hash = "b610da5dca8a292d32ea8e8e441a4fdbf3cf7f09d381921d6c82557878b8ceba", 
+            dep_hash = "32e4e9b091e3431927f5534c434f3e34e726d6e5f2f7093309b1c7fbd6d8f3dc"
+        }, 
+        ["/Workspace/Packages/_Workspace/TenFootUiShell"] = {
+            source_hash = "e6dd343e20312874ad9f207122c404a7e5c40ce89069c190a097e4a7e1e21a8a", 
+            dep_hash = "d33e1d3ce8f50db1e8c5c800427053e42adaedc9e10a003491be787acc212ba2"
+        }, 
+        ["/Workspace/Packages/_Workspace/TenFootUiTesting"] = {
+            source_hash = "6238dcf553ee9e95161c88d099338a5a2eca2b092b14176fcec11f8a0bedb8a7", 
+            dep_hash = "65c0082d4dd2e66c86d47eaa47359fd7999c68f09c33cede5c424b294eda3125"
+        }, 
+        ["/Workspace/Packages/_Workspace/TestUtils"] = {
+            source_hash = "b1e464ebdf21c4aa0fcaef5e8607b90c8415886ee825dff6a8688fd5839734b0", 
+            dep_hash = "92cc302de7beb88ec351b3521ff6cbf954176517a9b80fcd1287c340be0bd2ca"
+        }, 
+        ["/Workspace/Packages/_Workspace/Thumbnailing"] = {
+            source_hash = "ddac1141d0a543dc2392349ff8378ea6e7de4d4bd6151f053bb35bca93e620a2", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/Time"] = {
+            source_hash = "57ea53866429a841d94c2a1e1b55a44d52fe234b57f2c6dccfe2a615dd67ea72", 
+            dep_hash = "c6389addf223046ec6a74ff87483e1084a1220f69cb46ae9dee846878a93ebe2"
+        }, 
+        ["/Workspace/Packages/_Workspace/TnSAdIdentification"] = {
+            source_hash = "0760ff9ab7c083c6802f544bde576c045cd165328eebc8abde946993dda6b047", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/TnSAvatarIdentification"] = {
+            source_hash = "150fc4f7f5c0cb2e5997cb3a150faf0cfda8039fb5278a6349e82f312bf89e85", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/TnSScreenshot"] = {
+            source_hash = "68e38d8a9300f200771d08e6cb908807a1fbf7345a6f5e2cd16595e22a4bde3f", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/ToastNotification"] = {
+            source_hash = "9d5aeaeb5514c134c5e212c4205f206d1671df6e5fb910015d9a2ab7f63508d0", 
+            dep_hash = "0e3107ad05d9aae42caf4fe517c9c281ce7c3bcb9edd7853f41a9d7adc4ab41a"
+        }, 
+        ["/Workspace/Packages/_Workspace/ToastNotificationsProtocol"] = {
+            source_hash = "68404e100f3c033a0310452aed96a79714122973ea5824ee1f1470fa42dd0c4b", 
+            dep_hash = "579c06ec3d5e3cd5a716edb21bff8e164de2379395605bf63953cf57e5623cfb"
+        }, 
+        ["/Workspace/Packages/_Workspace/ToastRodux"] = {
+            source_hash = "27abacc0ce286d2aca38d74257d6f8231c6b1c3cf31983e799ca8d3cea4bac85", 
+            dep_hash = "b5afc4f9568df8a5fd083f2484ae3517ec2f52120a111bf089fd1f28a8270e10"
+        }, 
+        ["/Workspace/Packages/_Workspace/UIBlox"] = {
+            source_hash = "4675130e8462b4ebf7b8522c4edcb1fee80116ada157f972e56069177e2074cd", 
+            dep_hash = "d77676cc80e98f6d2273da020d037c1a0f8c09f28d550e2d1e141ee881b572a5"
+        }, 
+        ["/Workspace/Packages/_Workspace/UiShellEvents"] = {
+            source_hash = "aa113023e115dd3507634c6796cfc68ff7c1907810c7bdcf4c03685d2beb4908", 
+            dep_hash = "ad9343658091b9b1a5b94d826d20d4b3535c3fb360a9fd90ff3adcb10f1303be"
+        }, 
+        ["/Workspace/Packages/_Workspace/UnitTestHelpers"] = {
+            source_hash = "2df5def75a7974f57e3480681bc087bfbb20f84015d06f5d6660617e22b342bf", 
+            dep_hash = "9873d0046f69d80ff735d57744a8a9e91a3e4d2fa434cb44d751738bc195041f"
+        }, 
+        ["/Workspace/Packages/_Workspace/UniversalAppPolicy"] = {
+            source_hash = "508a7cb8c98b6daca32692e7c511fef6fa9caea3b618df4d515f36fa6decc24c", 
+            dep_hash = "b89778adb5000a3e358751bbecab9638e46077d8063a8afb14f36bde10163333"
+        }, 
+        ["/Workspace/Packages/_Workspace/UrlBuilder"] = {
+            source_hash = "6ec09dc285f381ea0b6f69dc54ee202fa41ec59c2a8fa64c17860fbb56cba1f3", 
+            dep_hash = "340c41c32e6dfdf7de1619477ef6f9eaf1de8b49fafb9fffacd4721c6cc3bbae"
+        }, 
+        ["/Workspace/Packages/_Workspace/UserActivationFramework"] = {
+            source_hash = "f7a771337e8b4be85593058d9e28fc8a6bf611ec2dd26bd0f39ff351b7195623", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/UserAgreements"] = {
+            source_hash = "883e566b66c63b8efe06846a9a2d63b26a66b2452e0c4c29fa79715518dc7c1a", 
+            dep_hash = "61ab7141408e09783986c1fc7a0b692cf527d4f83fb5bde1a5dd90ae1bf234eb"
+        }, 
+        ["/Workspace/Packages/_Workspace/UserLib"] = {
+            source_hash = "311ea7953ae358c1e78ae83ff41061118de53d6d3848656c4ef3c369b974083a", 
+            dep_hash = "82fd7354bd8af852f5f6c75536f3bc8038bce0a72f1a18ec124b6f5868205334"
+        }, 
+        ["/Workspace/Packages/_Workspace/UserProfiles"] = {
+            source_hash = "b5a5351c8cbad812081d9d561f1053021a5df937a0c4d1078612d44b1cef4db2", 
+            dep_hash = "fc8eb6b3b6250b7e2bf7041e2252ad55f9035bbc38480e476fc43dbb10e11cd6"
+        }, 
+        ["/Workspace/Packages/_Workspace/UserSafetyTestSuite"] = {
+            source_hash = "f7b0eea3cf81fd4ee6412162e7f7cb935edc417e2c2e78726166070bec744b3d", 
+            dep_hash = "4ee159d19816eee84ceacba1e5cefd31fed287373ef12193e66c5ca8fe9a2775"
+        }, 
+        ["/Workspace/Packages/_Workspace/UserSearch"] = {
+            source_hash = "de03196e1f80a8dedcb797df1685b0297ee8c6194317be47647d309f7d324676", 
+            dep_hash = "4e7882b00c4c825731235aada20cc0fadc7cb43b4423d23be5d33f67b3e1651a"
+        }, 
+        ["/Workspace/Packages/_Workspace/UserSearchTestSuite"] = {
+            source_hash = "74a1ea6817e467e7d120a524159d54fe528fa84a6cea337107fb4e0e9fd7695f", 
+            dep_hash = "348aeb078ed877bca8c8b2708088eafa8d677a9ec771cc4bb935d6f23e7b0ea7"
+        }, 
+        ["/Workspace/Packages/_Workspace/VerifiedBadges"] = {
+            source_hash = "d03563a9abd0559bc277a2a82d3eb994b29f3a1c679495f353e11fed66f86546", 
+            dep_hash = "3e5077aaae0bc73697d4fca19e6d3a1d2a8a70ebf67181e042f14631de2be60c"
+        }, 
+        ["/Workspace/Packages/_Workspace/VideoProtocol"] = {
+            source_hash = "75df6abd1d1089d9f06a5894c3ea554c5364e9f4ff70e8fd9c372c0dd3c2883f", 
+            dep_hash = "f8932ba91200ddb8ae5d49244b429d916e4a346484887e34fec6e86be7adf187"
+        }, 
+        ["/Workspace/Packages/_Workspace/VirtualEvents"] = {
+            source_hash = "d18c555794bba7e7888674367e2dadbbae148389f59c0d200d2a8cb2fd54167e", 
+            dep_hash = "c69d5af8d4a198b12dd2eab54bfdc58bf41412fb5e92429e361aa165ece0190a"
+        }, 
+        ["/Workspace/Packages/_Workspace/VirtualizedList"] = {
+            source_hash = "6013c8591cf8464a80c29e4ebf38ffa87414c8d2e82d87df29cb340b9c3fe3d3", 
+            dep_hash = "1708f5835879f633618d58c98442015246ab2c8ae0a01e5cd3f7b2174764ba86"
+        }, 
+        ["/Workspace/Packages/_Workspace/VoiceChat"] = {
+            source_hash = "ba10163e1b421aadc0c7fc546c605d72b2e2d4ee53cbd9041160973db321df88", 
+            dep_hash = "047913d58ba4be2a2193db57fe9da3e3f4515dc3ac8e8cff588d41396ec80e24"
+        }, 
+        ["/Workspace/Packages/_Workspace/VoiceChatCore"] = {
+            source_hash = "e2639a344f77776cd6ae985252cc63da1e4b333e7b8238a481b0dc815de1dc9b", 
+            dep_hash = "80ca236e046aa6d6dad8414b504f851c85dad70f3bc83170774e7f3e8ac3bbaf"
+        }, 
+        ["/Workspace/Packages/_Workspace/VrCompatibility"] = {
+            source_hash = "3b2ed018045b5cb1e7dbaea4dd411706f8ec6713693f801a15128308df15f8f5", 
+            dep_hash = "212fad7b5595d903a79759962100e5621ae8a0416b8780a5b650e9b4128615d0"
+        }, 
+        ["/Workspace/Packages/_Workspace/WebViewProtocol"] = {
+            source_hash = "172079aa45e783893fea5c9cfc3a0058bbf05324f2157e4cdbb8b93cdafd07fd", 
+            dep_hash = "a830e7a5a3954e470445a467d8e90ace13fbe9ebfd0895f06ff955cf8dacc325"
+        }, 
+        ["/Workspace/Packages/_Workspace/enumerate"] = {
+            source_hash = "c94bbc38059eccdd36b06783f6ddec0c15397f4c6e82f96c6b04544decaa415c", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/llama"] = {
+            source_hash = "ad8b86aac4375b84cba5531dbeb92f6ddb8abf2881088a3d96358fc042082216", 
+            dep_hash = "8f0f2bcd186ef6b548f5fefbcd5fcf18b39f1f144a072e96aa36cbd5ea863da6"
+        }, 
+        ["/Workspace/Packages/_Workspace/t"] = {
+            source_hash = "211f24ff36121c3a1f49ae76818fa2e8580ccd2681ebf2d7d72f5b8b3c391e0a", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }, 
+        ["/Workspace/Packages/_Workspace/tutils"] = {
+            source_hash = "b2d6367c6bccc1fef66acff6f87e2562f9af5ab2f2e8fa8d9f8b9bf4fefb4762", 
+            dep_hash = "0e5751c026e543b2e8ab2eb06099daa1d1e5df47778f7787faab45cdf12fe3a8"
+        }
+    }
+};

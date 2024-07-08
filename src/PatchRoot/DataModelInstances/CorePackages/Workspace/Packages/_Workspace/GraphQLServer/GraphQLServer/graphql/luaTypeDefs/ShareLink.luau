@@ -1,0 +1,1 @@
+return "\t enum ShareLinkType {\n\t\tExperienceInvite,\n\t\tFriendInvite,\n\t\tHome,\n\t\tProfile,\n\t\tNotificationExperienceInvite,\n\t\tScreenshotInvite,\n\t\tPrivateServer,\n\t\tServer,\n\t\tExperienceDetails,\n\t }\n\n\tinterface ShareLink {\n\t\tlinkId: ID String ShareLinkType String ID String ShareLinkType String ExperienceDetailsLink\n\t}\n";

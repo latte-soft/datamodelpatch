@@ -1,0 +1,22 @@
+return {
+    None = "None", 
+    User = "User", 
+    Place = "Place", 
+    NotAudible = "NotAudible", 
+    Permission = "Permission", 
+    Retry = "Retry", 
+    VoiceChatSuspendedTemporary = "VoiceChatSuspendedTemporary", 
+    VoiceChatSuspendedTemporaryAvatarChat = "VoiceChatSuspendedTemporaryAvatarChat", 
+    VoiceChatSuspendedTemporaryB = "VoiceChatSuspendedTemporaryB", 
+    VoiceChatSuspendedPermanent = "VoiceChatSuspendedPermanent", 
+    VoiceLoading = "VoiceLoading", 
+    VoiceToxicityModal = "VoiceToxicityModal", 
+    VoiceToxicityToast = "VoiceToxicityToast", 
+    VoiceToxicityFeedbackToast = "VoiceToxicityFeedbackToast", 
+    VoiceChatSuspendedTemporaryToast = "VoiceChatSuspendedTemporaryToast", 
+    VoiceConsentDeclinedToast = "VoiceConsentDeclinedToast", 
+    VoiceConsentAcceptedToast = "VoiceConsentAcceptedToast", 
+    VoiceConsentModalV1 = "VoiceConsentModalV1", 
+    VoiceConsentModalV2 = "VoiceConsentModalV2", 
+    VoiceConsentModalV3 = "VoiceConsentModalV3"
+};

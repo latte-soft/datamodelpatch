@@ -1,0 +1,26 @@
+local l_Parent_0 = script.Parent.Parent;
+local _ = require(l_Parent_0.LuauPolyfill);
+local v2 = {};
+local _ = require(l_Parent_0.GraphQL).visit;
+v2.DirectiveLocation = {
+    QUERY = "QUERY", 
+    MUTATION = "MUTATION", 
+    SUBSCRIPTION = "SUBSCRIPTION", 
+    FIELD = "FIELD", 
+    FRAGMENT_DEFINITION = "FRAGMENT_DEFINITION", 
+    FRAGMENT_SPREAD = "FRAGMENT_SPREAD", 
+    INLINE_FRAGMENT = "INLINE_FRAGMENT", 
+    VARIABLE_DEFINITION = "VARIABLE_DEFINITION", 
+    SCHEMA = "SCHEMA", 
+    SCALAR = "SCALAR", 
+    OBJECT = "OBJECT", 
+    FIELD_DEFINITION = "FIELD_DEFINITION", 
+    ARGUMENT_DEFINITION = "ARGUMENT_DEFINITION", 
+    INTERFACE = "INTERFACE", 
+    UNION = "UNION", 
+    ENUM = "ENUM", 
+    ENUM_VALUE = "ENUM_VALUE", 
+    INPUT_OBJECT = "INPUT_OBJECT", 
+    INPUT_FIELD_DEFINITION = "INPUT_FIELD_DEFINITION"
+};
+return v2;

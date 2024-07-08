@@ -1,0 +1,1 @@
+return "\ttype Names {\n\t\talias: String\n\t\tcombinedName: String\n\t\tcontactName: String\n\t\tdisplayName: String\n\t\tusername: String\n\t\tplatformName: String\n\t}\n\n\ttype UserProfile implements User {\n\t\tid: ID String Names\n\t\tplatformProfileId: String\n\t}\n\n\ttype Query {\n\t\tuserProfiles(userIds: [String] [UserProfile]\n\t}\n";

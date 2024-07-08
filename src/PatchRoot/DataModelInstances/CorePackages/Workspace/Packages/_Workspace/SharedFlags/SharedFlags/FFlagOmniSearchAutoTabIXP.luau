@@ -1,0 +1,1 @@
+return ((require(script.Parent.FFlagUserSearchUseNewEndpointIXP) and require(script.Parent.FFlagCleanPlayerSearchProp)) and require(script.Parent.FFlagRefactorOmniSearchFetch)) and game:DefineFastFlag("OmniSearchAutoTabIXP", false);

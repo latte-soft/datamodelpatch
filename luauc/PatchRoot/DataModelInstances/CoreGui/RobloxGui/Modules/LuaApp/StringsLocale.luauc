@@ -1,0 +1,131 @@
+ÄrequirescriptParentGeneratedStringsBYRECOMMENDED_GAMESPLAYINGVISITSCREATEDUPDATEDMAX_PLAYERSGENREALLOWED_GEARREPORT_ABUSE
+COPYLOCKEDDETAILSVIP_SERVERSGAME_BADGESPASSES_FOR_THIS_GAMEGEAR_FOR_THIS_GAMEPLAYERSCLANSSERVERS_MY_FRIENDS_ARE_INOTHER_SERVERSABOUTSTORELEADERBOARDSSERVERSSEARCHTURN_ON_CHATPRIVACY_SETTINGSCANCELCONFIRMSEARCH_GAMESSEARCH_FOR_FRIENDSSEARCH_FOR_FRIENDS_AND_CHATNO_RESULTS_FOUNDSEE_MORE_FRIENDSSEE_LESS_FRIENDSNO_NETWORK_CONNECTIONSHARE_GAME_TO_CHATMAKE_FRIENDS_TO_CHATTHIS_MESSAGE_WAS_MODERATEDFILTERED_FOR_RECEIVERSCHAT_GROUP_NAMENOTIFICATIONSADD_FRIENDSLEAVE_GROUPLEAVE_GROUP_MESSAGESTAYLEAVEREMOVE_USER REMOVE_USER_CONFIRMATION_MESSAGEREMOVENOT_SETCHATCHAT_DETAILSNEW_CHAT_GROUPCHAT_INPUT_PLACEHOLDEROPTIONVIEW_PROFILEREPORT_USERREMOVE_FROM_GROUPGENERALMEMBERSFAILED_TO_RENAME_TITLEFAILED_TO_RENAME_MESSAGEGROUP_NAME_MODERATEDFAILED_TO_LEAVE_GROUPFAILED_TO_LEAVE_GROUP_MESSAGEFAILED_TO_REMOVE_USERFAILED_TO_REMOVE_USER_MESSAGETOO_MANY_PEOPLEREMOVED_FROM_CONVERSATIONNAME_THIS_CHAT_GROUPSAVESAVE_NEW_GROUPSAVE_ADDED_FRIENDSSENDSENTOFFLINEONLINE
+BY_BUILDERVIEW_ASSET_DETAILS	PLAY_GAMEMY_FEEDFRIENDS_COUNTSEE_ALLGAMESHOMECATALOGAVATARFRIENDSMORECURRENT_PLAYERSKeysEN_USARZH_CNZH_TWCSDANLEN_GBFIFR_CAESES_XLSVTHTRVIen-usarzh-CNzh-TWcsdanlen-GBfifr-CAeses-XLsvthtrvi	LanguagesDefaultLanguagekeyvaluescommentByCThe preposition after the game title to introduce the game creator.Recommended GamesLRecommended Games section header for the About Tab on the game details page.This place is copylocked#Notification that a game is locked.Report Abuse=Clickable text to report a game details page for bad content.Playing/Label for the number of players playing a game.#{NUMBER_OF_CURRENT_PLAYERS} PlayingBLabel for the number of players that are currently playing a game.Visits*Label for the number of visits a game has.Created&Label for the creation date of a game.Updated0Label for the date of the last update to a game.Max Players2Label for the maximum number of players in a game.GenreLabel for the game genre.Allowed Gear&Label for the allowed gear for a game.Other ServersMThe other servers section header in the servers tab on the game details page.Servers my friends are inRThe servers my friends are in section in the servers tab on the game details page.ClansNThe group leaderboard header in the leaderboards tab on the game details page.PlayersLThe players section header in the leaderboards tab on the game details page.Gear for this gameBThe gear section header in the store tab on the game details page.Passes for this gameDThe passes section header in the store tab on the game details page.Game Badges8The game badges section header on the game details page.VIP ServersVThe VIP servers section header in the about and servers tabs on the game details page.Details9The game details section header on the game details page.About.The About tab's text on the game details page.Store.The Store tab's text on the game details page.Leaderboards5The Leaderboards tab's text on the game details page.Servers0The Servers tab's text on the game details page.Search^Placeholder text for most search input text boxes. Explains the functionality of the text box.<To chat with friends, turn on chat in your Privacy Settings.Explains how to enable chat.Privacy Settings8Label for button that opens the user's privacy settings.Cancel'Used for buttons that cancel an action.OkayKUsed for buttons that confirm an action or dismiss an informational pop-up.Search games*Placeholder text when searching for games.Search for Friends,Placeholder text when searching for friends."Search for friends and chat groups<Placeholder text when searching for friends and chat groups.No results found+When searching and not finding any results.See More ({NUMBER_OF_FRIENDS})ALabels a button that expands a list of friends. NUMBER_OF_FRIENDS8 is the number of additional friends that will be shown.See Less0Labels a button that expands a list of friends. INUMBER_OF_FRIENDS is the number of additional friends that will be shown.Connecting...8Informs the user that there is no network connection and8 data (conversations, etc.) can not be sent or received.Share game to chat%Title for share game to chat feature.=Make friends in games to start chatting and playing together._Unless a user has friends, they won't be able to chat with anyone. This message informs playersO they need friends to chat and suggests playing games as a way to find friends.(This message was moderated and not sent.1Shown to the user if a message is fully moderated3 and not sent to the other users in a conversation./Not everyone in this chat can see your message.PShown to the user if a message is not shown to the minor people in a group chat.Chat Group Name$Label for the name of a conversationNotificationsTLabel for button that allows you to change settings for which notifications you get.Add FriendsALabels a button that allows you to add friends to a conversation.Leave GroupHLabels action that allows a user to remove themself from a conversation.Remove UserULabels an action which removes another user (not the local user) from a conversation.RemoveGLabels the confirmation button for removing a user from a conversation.3You won't be able to keep chatting with this group.7Message explaining that if they leave a chat group they/ will no longer be able to participate in chat.StayCancels the leave group action.Leave Confirms the leave group action.Not SetDInforms the user the title of a group conversation has not been set.Chat7Title of screen that shows list of conversations, which4 is the first screen that appears when chat is open.Chat Details9Title of screen that informs the user of a conversation's6 participants and title and allows them to edit these.New Chat Group7Title of screen where user can create a new chat group.Say something8Text shown in chat input bar before user types anything.Option0Title of pop-up that shows list of user actions.View ProfileALabel for button that allows user to view another user's profile.Report UserTLabel for button that allows user to report another user for inappropriate behavior.Remove from GroupULabel for button that allows a user to remove another user from a group conversation.GeneralPLabels section of group details screen with general information like group name.Members?Labels section of group details screen that lists participants.Failed to Rename Conversation:Informs the user that a conversation could not be renamed.DThe conversation {EXISTING_NAME} could not be renamed to {NEW_NAME}.-The chat group name you entered was moderatedaInforms the user that the name they tried to give a group was deemed inappropriate and moderated.Failed to Leave GroupOTitle of message when a user tries to leave a group and the http request fails.DYou could not be removed from the conversation {CONVERSATION_TITLE}.FMessage when a user tries to leave a group and the http request fails.Failed to Remove UserbTitle of message when a user tries to remove another user from a group and the http request fails.TThe user {USERNAME} could not be removed from the conversation {CONVERSATION_TITLE}.AYou can only have up to {MAX_GROUP_SIZE} players in a chat group.HInforms the user that they can't add any more friends to a conversation.%You have been removed from the group.AInforms the user that they have been removed from a conversation.Name this chat groupJPlaceholder text for input field that allows user to name a new chat groupCreate*Labels button that saves a new chat group.AddGLabels button that saves changes to chat group when adding new friends.Send*A Send label that is used to send messagesSent2A Sent label that is used after a message is sent.Save.Labels button that confirms and saves a change@Are you sure you want to remove {USERNAME} from this chat group?[Message asking user for confirmation before removing another user from a group conversationOfflineHInforms the local user that another user is not signed onto the platformOnlineDInforms the local user that another user is signed onto the platformBy {USERNAME}1Informs that a game is made by a certain builder.View DetailsELabels a button that will show the user more information on an asset.Play6Labels a button that will send the player into a game.View My FeedAHeader on the section of the home page that shows the user's feedFriends ({COUNT})DHeader on the section of the home page that shows the user's friendsSee All]Button that goes on carousels of throughout the UI, which allows the user to go to a separateL page which displays the entire list of things that would go in the carouselHome&Title text for application's home pageGames1Title text for page that contains a list of gamesCatalog)Title text for page that contains catalogAvatar/Title text for page that contains avatar editorFriends.Title text for page that contains friends infoMore7Title text for page that contains a list of other pagesContentpairs    ¯£   ¤     @¤    @M$   M•   Ÿ ÿ     ÿ     o 0S   o 0v   o 0¤   o	 0²	   o
+ 0k
+   o 0   o 0   o 0?   o 0H   o 0Ã   o 02   o 0¥   o 0ï   o 0   o 0B   o 0Z   o 0.   o 0ş   o 0'   o 0ô   o 0   o 0Ÿ   o 0   o 0ì   o 0   o 0ş   o  0e    o! 0!   o" 0ç"   o# 0=#   o$ 0Ú$   o% 0Æ%   o& 0Æ&   o' 0z'   o( 0*(   o) 0n)   o* 0M*   o+ 0J+   o, 0à,   o- 0C-   o. 0.   o/ 0\/   o0 0.0   o1 0K1   o2 0
+2   o3 0v3   o4 0ß4   o5 0ˆ5   o6 06   o7 0Õ7   o8 0Ê8   o9 079   o: 0@:   o; 0’;   o< 0ü<   o= 0u=   o> 0>   o? 05?   o@ 0a@   oA 0°A   oB 0B   oC 0ÆC   oD 04D   oE 0uE   oF 0.F   oG 0†G   oH 0(H   oI 0#I   oJ 0kJ   oK 0 K   oL 0ÙL   oM 0M   oN 0òN   oO 0HO   oP 0(P   oQ 0mQ   oR 0qR   oS 0~S   oT 0sT   oU 0nU   oV 0€V   oW 0^W   oX 0X   oY 0CY   oZ 0ºZ   o[ 0Å[   o\ 0×\   o] 0¹]   o^ 0Ê^   o_ 0_   o` 0¦`   0Œa   âr os 0äb   ot 0õc   ou 0Ëd   ov 0…e   ow 0f   ox 0Gg   oy 0¿h   oz 0ui   o{ 0Cj   o| 0k   o} 0l   o~ 0m   o 0ln   o€ 0<o   o 0èp   o‚ 0Sq   0ìƒ   Mìƒ   Mäb   0>„   ÿ  [   âˆ MŒa   MS   0J…   ÿ     Mìƒ   Mäb   o‰ j0Â†   oŠ 0‚‡   âˆ MŒa   Mv   0J…   ÿ     Mìƒ   Mäb   o‹ j0Â†   oŒ 0‚‡   âˆ MŒa   M2   0J…   ÿ     Mìƒ   Mäb   o j0Â†   o 0‚‡   âˆ MŒa   MÃ   0J…   ÿ     M	ìƒ   M	äb   o	 j	0Â†   o 0‚‡   âˆ M	Œa   M	¤   0J…   ÿ     M
+ìƒ   M	
+äb   o
+‘ j
+	0Â†   o’ 0‚‡   âˆ M
+Œa   M	
+¦`   0	J…   ÿ	     Mìƒ   M
+äb   o“ j	
+0	Â†   o	” 0	‚‡   â	ˆ MŒa   M
+²	   0
+	J…   ÿ
+     Mìƒ   Mäb   o• j
+0
+	Â†   o
+– 0
+	‚‡   â
+ˆ MŒa   Mk
+   0
+J…   ÿ     Mìƒ   Mäb   o— j0
+Â†   o˜ 0
+‚‡   âˆ MŒa   M   0J…   ÿ     Mìƒ   Mäb   o™ j0Â†   oš 0‚‡   âˆ MŒa   M   0J…   ÿ     Mìƒ   Mäb   o› j0Â†   oœ 0‚‡   âˆ MŒa   M?   0J…   ÿ     Mìƒ   Mäb   o j0Â†   o 0‚‡   âˆ MŒa   MH   0J…   ÿ     Mìƒ   Mäb   oŸ j0Â†   o  0‚‡   âˆ MŒa   Mô   0J…   ÿ     Mìƒ   Mäb   o¡ j0Â†   o¢ 0‚‡   âˆ MŒa   M'   0J…   ÿ     Mìƒ   Mäb   o£ j0Â†   o¤ 0‚‡   âˆ MŒa   Mş   0J…   ÿ     Mìƒ   Mäb   o¥ j0Â†   o¦ 0‚‡   âˆ MŒa   M.   0J…   ÿ     Mìƒ   Mäb   o§ j0Â†   o¨ 0‚‡   Å   âˆ MŒa   MZ   0J…   ÿ     Mìƒ   Mäb   o© j0Â†   oª 0‚‡   âˆ MŒa   MB   0J…   ÿ     Mìƒ   Mäb   o« j0Â†   o¬ 0‚‡   âˆ MŒa   M   0J…   ÿ     Mìƒ   Mäb   o­ j0Â†   o® 0‚‡   âˆ MŒa   Mï   0J…   ÿ     M	ìƒ   M	äb   o	¯ j	0Â†   o° 0‚‡   âˆ M	Œa   M	¥   0J…   ÿ     M
+ìƒ   M	
+äb   o
+± j
+	0Â†   o² 0‚‡   âˆ M
+Œa   M	
+   0	J…   ÿ	     Mìƒ   M
+äb   o³ j	
+0	Â†   o	´ 0	‚‡   â	ˆ MŒa   M
+Ÿ   0
+	J…   ÿ
+     Mìƒ   Mäb   oµ j
+0
+	Â†   o
+¶ 0
+	‚‡   â
+ˆ MŒa   M   0
+J…   ÿ     Mìƒ   Mäb   o· j0
+Â†   o¸ 0
+‚‡   âˆ MŒa   Mì   0J…   ÿ     Mìƒ   Mäb   o¹ j0Â†   oº 0‚‡   âˆ MŒa   M   0J…   ÿ     Mìƒ   Mäb   o» j0Â†   o¼ 0‚‡   âˆ MŒa   Mş   0J…   ÿ     Mìƒ   Mäb   o½ j0Â†   o¾ 0‚‡   âˆ MŒa   Me    0J…   ÿ     Mìƒ   Mäb   o¿ j0Â†   oÀ 0‚‡   âˆ MŒa   M!   0J…   ÿ     Mìƒ   Mäb   oÁ j0Â†   oÂ 0‚‡   âˆ MŒa   Mç"   0J…   ÿ     Mìƒ   Mäb   oÃ j0Â†   oÄ 0‚‡   âˆ MŒa   M=#   0J…   ÿ     Mìƒ   Mäb   oÅ j0Â†   oÆ 0‚‡   âˆ MŒa   MÚ$   0J…   ÿ     Mìƒ   Mäb   oÇ j0Â†   oÈ 0‚‡   Å   âˆ MŒa   MÆ%   0J…   ÿ     Mìƒ   Mäb   oÉ j0Â†   oÊ 0‚‡   âˆ MŒa   MÆ&   0J…   ÿ     Mìƒ   Mäb   oË j0Â†   oÌ 0‚‡   âˆ MŒa   Mz'   0J…   ÿ     Mìƒ   Mäb   oÍ j0Â†   oÎ oÏ s0‚‡   âˆ MŒa   M*(   0J…   ÿ     M	ìƒ   M	äb   o	Ğ j	0Â†   oÑ o	Ò s	0‚‡   âˆ M	Œa   M	n)   0J…   ÿ     M
+ìƒ   M	
+äb   o
+Ó j
+	0Â†   o	Ô o
+Õ s	
+0‚‡   âˆ M
+Œa   M	
+M*   0	J…   ÿ	     Mìƒ   M
+äb   oÖ j	
+0	Â†   o	× 0	‚‡   â	ˆ MŒa   M
+J+   0
+	J…   ÿ
+     Mìƒ   Mäb   oØ j
+0
+	Â†   oÙ oÚ s
+0
+	‚‡   â
+ˆ MŒa   Mà,   0
+J…   ÿ     Mìƒ   Mäb   oÛ j0
+Â†   oÜ oİ s0
+‚‡   âˆ MŒa   MC-   0J…   ÿ     Mìƒ   Mäb   oŞ j0Â†   oß 0‚‡   âˆ MŒa   M.   0J…   ÿ     Mìƒ   Mäb   oà j0Â†   oá 0‚‡   âˆ MŒa   M\/   0J…   ÿ     Mìƒ   Mäb   oâ j0Â†   oã 0‚‡   âˆ MŒa   M.0   0J…   ÿ     Mìƒ   Mäb   oä j0Â†   oå 0‚‡   âˆ MŒa   MK1   0J…   ÿ     Mìƒ   Mäb   oæ j0Â†   oç 0‚‡   âˆ MŒa   Mˆ5   0J…   ÿ     Mìƒ   Mäb   oè j0Â†   oé 0‚‡   âˆ MŒa   MÕ7   0J…   ÿ     Mìƒ   Mäb   oê j0Â†   oë 0‚‡   âˆ MŒa   M
+2   0J…   ÿ     Mìƒ   Mäb   oì j0Â†   oí oî s0‚‡   Å!   âˆ MŒa   Mv3   0J…   ÿ     Mìƒ   Mäb   oï j0Â†   oğ 0‚‡   âˆ MŒa   Mß4   0J…   ÿ     Mìƒ   Mäb   oñ j0Â†   oò 0‚‡   âˆ MŒa   MÊ8   0J…   ÿ     Mìƒ   Mäb   oó j0Â†   oô 0‚‡   âˆ MŒa   M79   0J…   ÿ     M	ìƒ   M	äb   o	õ j	0Â†   oö o	÷ s	0‚‡   âˆ M	Œa   M	@:   0J…   ÿ     M
+ìƒ   M	
+äb   o
+ø j
+	0Â†   o	ù o
+ú s	
+0‚‡   âˆ M
+Œa   M	
+’;   0	J…   ÿ	     Mìƒ   M
+äb   oû j	
+0	Â†   o	ü 0	‚‡   â	ˆ MŒa   M
+ü<   0
+	J…   ÿ
+     Mìƒ   Mäb   oı j
+0
+	Â†   o
+ş 0
+	‚‡   â
+ˆ MŒa   Mu=   0
+J…   ÿ     Mìƒ   Mäb   oÿ j0
+Â†   o 0
+‚‡   âˆ MŒa   M>   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   M5?   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   Ma@   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   M°A   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   MB   0J…   ÿ     Mìƒ   Mäb   o	j0Â†   o
+0‚‡   âˆ MŒa   MÆC   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   M4D   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   MuE   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   Å1   âˆ MŒa   M.F   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   M†G   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   M(H   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o0‚‡   âˆ MŒa   M#I   0J…   ÿ     M	ìƒ   M	äb   o	j	0Â†   o0‚‡   âˆ M	Œa   M	kJ   0J…   ÿ     M
+ìƒ   M	
+äb   o
+j
+	0Â†   o0‚‡   âˆ M
+Œa   M	
+ K   0	J…   ÿ	     Mìƒ   M
+äb   oj	
+0	Â†   o	0	‚‡   â	ˆ MŒa   M
+ÙL   0
+	J…   ÿ
+     Mìƒ   Mäb   oj
+0
+	Â†   o
+0
+	‚‡   â
+ˆ MŒa   MòN   0
+J…   ÿ     Mìƒ   Mäb   oj0
+Â†   o0
+‚‡   âˆ MŒa   MHO   0J…   ÿ     Mìƒ   Mäb   oj0Â†   o 0‚‡   âˆ MŒa   M(P   0J…   ÿ     Mìƒ   Mäb   o!j0Â†   o"0‚‡   âˆ MŒa   MmQ   0J…   ÿ     Mìƒ   Mäb   o#j0Â†   o$0‚‡   âˆ MŒa   MM   0J…   ÿ     Mìƒ   Mäb   o%j0Â†   o&0‚‡   âˆ MŒa   M6   0J…   ÿ     Mìƒ   Mäb   o'j0Â†   o(0‚‡   âˆ MŒa   MqR   0J…   ÿ     Mìƒ   Mäb   o)j0Â†   o*0‚‡   âˆ MŒa   M~S   0J…   ÿ     Mìƒ   Mäb   o+j0Â†   o,0‚‡   âˆ MŒa   MsT   0J…   ÿ     Mìƒ   Mäb   o-j0Â†   o.0‚‡   ÅA   âˆ MŒa   MnU   0J…   ÿ     Mìƒ   Mäb   o/j0Â†   o00‚‡   âˆ MŒa   M€V   0J…   ÿ     Mìƒ   Mäb   o1j0Â†   o20‚‡   âˆ MŒa   M^W   0J…   ÿ     Mìƒ   Mäb   o3j0Â†   o40‚‡   âˆ MŒa   MX   0J…   ÿ     M	ìƒ   M	äb   o	5j	0Â†   o60‚‡   âˆ M	Œa   M	CY   0J…   ÿ     M
+ìƒ   M	
+äb   o
+7j
+	0Â†   o	8o
+9s	
+0‚‡   âˆ M
+Œa   M	
+Å[   0	J…   ÿ	     Mìƒ   M
+äb   o:j	
+0	Â†   o	;0	‚‡   â	ˆ MŒa   M
+ºZ   0
+	J…   ÿ
+     Mìƒ   Mäb   o<j
+0
+	Â†   o
+=0
+	‚‡   â
+ˆ MŒa   M×\   0
+J…   ÿ     Mìƒ   Mäb   o>j0
+Â†   o?0
+‚‡   âˆ MŒa   M¹]   0J…   ÿ     Mìƒ   Mäb   o@j0Â†   oA0‚‡   âˆ MŒa   MÊ^   0J…   ÿ     Mìƒ   Mäb   oBj0Â†   oC0‚‡   âˆ MŒa   M_   0J…   ÿ     Mìƒ   Mäb   oDj0Â†   oE0‚‡   ÅQ   0¾F  ¤H  pTM¾F  Ÿ MJ…   ‡ 
+ ¤H  pTR	 Ÿ MÂ†   jnüÿ   nñÿ   ‚ É   @   @	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopbcdefghijklmnopqqrstuvwxyz{|}~€‚ƒ„……†‡†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•–—˜™š›œŸ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄ  pT                   ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ   [¥ ^¢  ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ    ÿ            ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı      ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı    ş    ÿÿ   ÿ ı  ş    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı    ÿ    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı  ÿ    ÿÿ   ÿ ı              ÿ    ÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ¥ÿÿÿ    _                                                                                ğÿÿÿ                                      ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                                   ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                                   ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ                               ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ       ÿÿÿÿ                            ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                                   ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                                   ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ       ÿÿÿÿ                        ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ                               ÿÿÿÿ           'ıÿÿŞ                               ÿÿÿÿıÿÿÿ	     

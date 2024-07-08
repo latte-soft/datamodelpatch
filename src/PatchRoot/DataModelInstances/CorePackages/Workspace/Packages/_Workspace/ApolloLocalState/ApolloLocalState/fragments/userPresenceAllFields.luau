@@ -1,0 +1,1 @@
+return (require(script:FindFirstAncestor("ApolloLocalState").Parent.ApolloClient).gql("\tfragment UserPresenceAllFields on UserPresence {\n\t\tid\n\t\tuserPresenceType\n\t\tlastLocation\n\t\tlastOnline\n\t\tplaceId\n\t\trootPlaceId\n\t\tgameId\n\t\tuniverseId\n\t}\n"));

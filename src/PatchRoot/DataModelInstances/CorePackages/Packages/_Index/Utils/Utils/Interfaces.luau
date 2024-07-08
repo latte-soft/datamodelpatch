@@ -1,0 +1,32 @@
+local l_Parent_0 = script.Parent.Parent;
+local _ = require(l_Parent_0.LuauPolyfill);
+local v2 = {};
+local _ = require(l_Parent_0.GraphQL);
+v2.MapperKind = {
+    TYPE = "MapperKind.TYPE", 
+    SCALAR_TYPE = "MapperKind.SCALAR_TYPE", 
+    ENUM_TYPE = "MapperKind.ENUM_TYPE", 
+    COMPOSITE_TYPE = "MapperKind.COMPOSITE_TYPE", 
+    OBJECT_TYPE = "MapperKind.OBJECT_TYPE", 
+    INPUT_OBJECT_TYPE = "MapperKind.INPUT_OBJECT_TYPE", 
+    ABSTRACT_TYPE = "MapperKind.ABSTRACT_TYPE", 
+    UNION_TYPE = "MapperKind.UNION_TYPE", 
+    INTERFACE_TYPE = "MapperKind.INTERFACE_TYPE", 
+    ROOT_OBJECT = "MapperKind.ROOT_OBJECT", 
+    QUERY = "MapperKind.QUERY", 
+    MUTATION = "MapperKind.MUTATION", 
+    SUBSCRIPTION = "MapperKind.SUBSCRIPTION", 
+    DIRECTIVE = "MapperKind.DIRECTIVE", 
+    FIELD = "MapperKind.FIELD", 
+    COMPOSITE_FIELD = "MapperKind.COMPOSITE_FIELD", 
+    OBJECT_FIELD = "MapperKind.OBJECT_FIELD", 
+    ROOT_FIELD = "MapperKind.ROOT_FIELD", 
+    QUERY_ROOT_FIELD = "MapperKind.QUERY_ROOT_FIELD", 
+    MUTATION_ROOT_FIELD = "MapperKind.MUTATION_ROOT_FIELD", 
+    SUBSCRIPTION_ROOT_FIELD = "MapperKind.SUBSCRIPTION_ROOT_FIELD", 
+    INTERFACE_FIELD = "MapperKind.INTERFACE_FIELD", 
+    INPUT_OBJECT_FIELD = "MapperKind.INPUT_OBJECT_FIELD", 
+    ARGUMENT = "MapperKind.ARGUMENT", 
+    ENUM_VALUE = "MapperKind.ENUM_VALUE"
+};
+return v2;

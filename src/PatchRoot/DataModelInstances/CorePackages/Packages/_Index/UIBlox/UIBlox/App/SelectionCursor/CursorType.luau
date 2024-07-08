@@ -1,0 +1,19 @@
+return require(script.Parent.Parent.Parent.Parent.enumerate)(script.Name, {
+    SelectedKnob = require(script.Parent.Cursors.SelectedKnob), 
+    UnselectedKnob = require(script.Parent.Cursors.UnselectedKnob), 
+    NavHighlight = require(script.Parent.Cursors.NavHighlight), 
+    InputFields = require(script.Parent.Cursors.InputFields), 
+    BulletUp = require(script.Parent.Cursors.BulletUp), 
+    BulletDown = require(script.Parent.Cursors.BulletDown), 
+    SelectionCell = require(script.Parent.Cursors.SelectionCell), 
+    Invisible = require(script.Parent.Cursors.Invisible), 
+    SkinToneCircle = require(script.Parent.Cursors.SkinToneCircle), 
+    RoundedSlot = require(script.Parent.Cursors.RoundedSlot), 
+    RoundedRectNoInset = require(script.Parent.Cursors.RoundedRectNoInset), 
+    Toggle = require(script.Parent.Cursors.Toggle), 
+    SmallPill = require(script.Parent.Cursors.SmallPill), 
+    LargePill = require(script.Parent.Cursors.LargePill), 
+    RoundedRect = require(script.Parent.Cursors.RoundedRect), 
+    InputButton = require(script.Parent.Cursors.InputButton), 
+    Square = require(script.Parent.Cursors.Square)
+});

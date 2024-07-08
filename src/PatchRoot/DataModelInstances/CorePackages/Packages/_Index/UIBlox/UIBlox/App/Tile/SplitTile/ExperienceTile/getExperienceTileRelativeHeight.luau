@@ -1,0 +1,25 @@
+local l_Parent_0 = script.Parent;
+local l_Parent_1 = l_Parent_0.Parent.Parent.Parent;
+local l_Parent_2 = l_Parent_1.Parent;
+local v3 = require(l_Parent_2.Parent.Cryo);
+local _ = require(l_Parent_1.Style.StyleTypes);
+local v5 = require(l_Parent_2.Utility.setDefault);
+local v6 = require(l_Parent_0.Constants);
+local v7 = require(l_Parent_0.Enum.AspectRatioMode);
+local v8 = require(l_Parent_0.getAspectRatio);
+return function(v9, v10, v11, v12, v13)
+    local v14 = v3.Dictionary.join(v6.getDefaultStyleProps(v9), v13 or {});
+    local v15 = v5(v12, v6.DEFAULT_FOOTER_HEIGHT);
+    local v16 = v5(v11, v6.DEFAULT_TEXT_LINE_COUNT);
+    local v17 = v5(v10, v7.Square);
+    local l_topContentPadding_0 = v14.topContentPadding;
+    local l_bottomContentPadding_0 = v14.bottomContentPadding;
+    local l_contentTitleFont_0 = v14.contentTitleFont;
+    local l_contentTitlePadding_0 = v14.contentTitlePadding;
+    local l_selectionCursorPadding_0 = v14.selectionCursorPadding;
+    local v23 = ((l_selectionCursorPadding_0.Left + l_selectionCursorPadding_0.Right) + l_topContentPadding_0.Left) + l_topContentPadding_0.Right;
+    local v24 = math.floor((v16 * l_contentTitleFont_0.RelativeSize) * v9.Font.BaseSize + l_contentTitlePadding_0) + v15;
+    local v25 = ((l_topContentPadding_0.Top + l_topContentPadding_0.Bottom) + (l_bottomContentPadding_0.Top + l_bottomContentPadding_0.Bottom)) + (l_selectionCursorPadding_0.Top + l_selectionCursorPadding_0.Bottom);
+    local v26 = v8(v17);
+    return UDim.new(v26, ((-1 * v23) * v26 + v24) + v25);
+end;

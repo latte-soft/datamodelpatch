@@ -1,0 +1,18 @@
+local v0 = {};
+local l_Parent_0 = script.Parent;
+local l_Object_0 = require(l_Parent_0.Parent.LuauPolyfill).Object;
+local l_invariant_0 = require(l_Parent_0.jsutils.invariant).invariant;
+local l_DEV_0 = require(l_Parent_0.utilities).DEV;
+l_invariant_0(typeof(l_DEV_0) == "boolean", (tostring(l_DEV_0)));
+local v5 = require(script.context);
+v0.ApolloProvider = v5.ApolloProvider;
+v0.ApolloConsumer = v5.ApolloConsumer;
+v0.getApolloContext = v5.getApolloContext;
+v0.resetApolloContext = v5.resetApolloContext;
+l_Object_0.assign(v0, (require(script.hooks)));
+local v6 = require(script.parser);
+v0.DocumentType = v6.DocumentType;
+v0.operationName = v6.operationName;
+v0.parser = v6.parser;
+l_Object_0.assign(v0, (require(script.types.types)));
+return v0;

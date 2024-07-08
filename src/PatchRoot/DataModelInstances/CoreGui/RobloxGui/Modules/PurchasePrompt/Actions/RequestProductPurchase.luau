@@ -1,0 +1,1 @@
+return require(script.Parent.makeActionCreator)(script.Name, "id", "equipIfPurchased");

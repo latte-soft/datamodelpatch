@@ -1,0 +1,14 @@
+local v0 = {};
+local _ = require(script["get-queries-for-element"]);
+local _ = require(script.queries);
+local _ = require(script["query-helpers"]);
+local _ = require(script.screen);
+local _ = require(script["wait-for"]);
+local _ = require(script["wait-for-element-to-be-removed"]);
+local _ = require(script.matches);
+local _ = require(script["get-node-text"]);
+local _ = require(script.events);
+local _ = require(script["pretty-dom"]);
+local _ = require(script.config);
+local _ = require(script.suggestions);
+return v0;

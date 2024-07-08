@@ -1,0 +1,23 @@
+return function()
+    local l_Model_0 = Instance.new("Model");
+    Instance.new("Humanoid").Parent = l_Model_0;
+    local l_Part_0 = Instance.new("Part");
+    l_Part_0.Name = "HumanoidRootPart";
+    l_Part_0.Size = Vector3.new(2, 2, 1);
+    l_Part_0.Position = Vector3.new(0, 2, 0);
+    l_Part_0.Transparency = 1;
+    l_Part_0.Parent = l_Model_0;
+    local l_Part_1 = Instance.new("Part");
+    l_Part_1.Name = "Head";
+    l_Part_1.Size = Vector3.new(2, 1, 1);
+    l_Part_1.Position = Vector3.new(0, 5, 0);
+    l_Part_1.Shape = Enum.PartType.Ball;
+    l_Part_1.Parent = l_Model_0;
+    local l_Part_2 = Instance.new("Part");
+    l_Part_2.Name = "Torso";
+    l_Part_2.Size = Vector3.new(2, 2, 1);
+    l_Part_2.Position = Vector3.new(0, 3.5, 0);
+    l_Part_2.Parent = l_Model_0;
+    l_Model_0.PrimaryPart = l_Part_0;
+    return l_Model_0;
+end;

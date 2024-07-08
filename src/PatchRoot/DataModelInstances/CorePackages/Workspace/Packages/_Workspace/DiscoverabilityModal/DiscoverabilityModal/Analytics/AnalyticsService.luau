@@ -1,0 +1,6 @@
+return {
+    EventStream = {
+        setRBXEventStream = require(script.Parent.setupSetRbxEventStream)((game:GetService("EventIngestService")))
+    }, 
+    Diag = require(script:FindFirstAncestor("DiscoverabilityModal").Parent.Analytics).Analytics.new(game:GetService("RbxAnalyticsService")).Diag
+};

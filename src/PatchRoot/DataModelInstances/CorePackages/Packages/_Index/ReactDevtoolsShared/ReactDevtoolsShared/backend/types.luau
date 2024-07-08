@@ -1,0 +1,12 @@
+local l_Parent_0 = script.Parent.Parent.Parent;
+local _ = require(l_Parent_0.LuauPolyfill);
+local v2 = {};
+local _ = require(l_Parent_0.Shared);
+local _ = require(l_Parent_0.ReactReconciler);
+local _ = require(script.Parent.Parent.types);
+local _ = require(script.Parent.Parent.devtools.views.Profiler.types);
+v2.InspectElementFullDataType = "full-data";
+v2.InspectElementNoChangeType = "no-change";
+v2.InspectElementNotFoundType = "not-found";
+v2.InspectElementHydratedPathType = "hydrated-path";
+return v2;

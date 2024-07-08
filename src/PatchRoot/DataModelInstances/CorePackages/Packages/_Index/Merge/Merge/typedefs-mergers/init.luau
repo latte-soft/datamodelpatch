@@ -1,0 +1,17 @@
+local l_Object_0 = require(script.Parent.Parent.LuauPolyfill).Object;
+local v1 = {};
+l_Object_0.assign(v1, (require(script.arguments)));
+l_Object_0.assign(v1, (require(script.directives)));
+l_Object_0.assign(v1, (require(script["enum-values"])));
+l_Object_0.assign(v1, (require(script.enum)));
+l_Object_0.assign(v1, (require(script.fields)));
+l_Object_0.assign(v1, (require(script["input-type"])));
+l_Object_0.assign(v1, (require(script.interface)));
+l_Object_0.assign(v1, (require(script["merge-named-type-array"])));
+l_Object_0.assign(v1, (require(script["merge-nodes"])));
+l_Object_0.assign(v1, (require(script["merge-typedefs"])));
+l_Object_0.assign(v1, (require(script.scalar)));
+l_Object_0.assign(v1, (require(script.type)));
+l_Object_0.assign(v1, (require(script.union)));
+l_Object_0.assign(v1, (require(script.utils)));
+return v1;

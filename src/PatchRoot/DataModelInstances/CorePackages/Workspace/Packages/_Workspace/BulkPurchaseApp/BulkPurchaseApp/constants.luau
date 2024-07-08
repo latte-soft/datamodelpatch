@@ -1,0 +1,6 @@
+return {
+    MAX_WIDTH = 792, 
+    MAX_HEIGHT = 608, 
+    TEN_FOOT_MULTIPLIER = 1.5, 
+    MOBILE_BREAKPOINT = 792
+};

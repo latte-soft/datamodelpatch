@@ -1,0 +1,21 @@
+return {
+    GetUIBloxUseNewThemeColorPalettes = require(script.GetUIBloxUseNewThemeColorPalettes), 
+    GetUIBloxEnableFontNameMapping = require(script.GetUIBloxEnableFontNameMapping), 
+    GetFFlagUIBloxEnableNewMenuLayout = require(script.GetFFlagUIBloxEnableNewMenuLayout), 
+    GetFFlagUIBloxFixFixedHeightMenuFrameSelectable = require(script.GetFFlagUIBloxFixFixedHeightMenuFrameSelectable), 
+    GetFFlagUIBloxHideActionBarWhenStickyBarActive = require(script.GetFFlagUIBloxHideActionBarWhenStickyBarActive), 
+    GetFFlagUIBloxUseTokensWithScale = require(script.GetFFlagUIBloxUseTokensWithScale), 
+    FFlagUIBloxUseRobloxGuiFocused = require(script.FFlagUIBloxUseRobloxGuiFocused), 
+    FFlagUIBloxUseInputResponsiveShortcutBarChanges = require(script.FFlagUIBloxUseInputResponsiveShortcutBarChanges), 
+    GetFFlagUIBloxUseGetTextBoundsAsync = require(script.GetFFlagUIBloxUseGetTextBoundsAsync), 
+    GetFFlagUIBloxResponsiveBaseRowScrollingFrameRef = require(script.GetFFlagUIBloxResponsiveBaseRowScrollingFrameRef), 
+    GetFFlagUIBloxSupportControlStateSelectedForTooltipHover = require(script.GetFFlagUIBloxSupportControlStateSelectedForTooltipHover), 
+    GetFFlagUIBloxUseNewHeaderBar = require(script.GetFFlagUIBloxUseNewHeaderBar), 
+    GetFFlagUIBloxFixGenericTextLabelTextboundHeight = require(script.GetFFlagUIBloxFixGenericTextLabelTextboundHeight), 
+    GetFFlagUIBloxInteractiveAlertDesignTokenMinMaxSize = require(script.GetFFlagUIBloxInteractiveAlertDesignTokenMinMaxSize), 
+    GetFFlagUIBloxAlertTitleDesignTokenHeader = require(script.GetFFlagUIBloxAlertTitleDesignTokenHeader), 
+    FFlagUIBloxUseNewInteractable = require(script.FFlagUIBloxUseNewInteractable), 
+    FFlagUIBloxUseNewInteractableCoreScript = require(script.FFlagUIBloxUseNewInteractableCoreScript), 
+    GetFFlagUIBloxIgnoreRichTextTagsForTextSizeCalculation = require(script.GetFFlagUIBloxIgnoreRichTextTagsForTextSizeCalculation), 
+    GetFFlagUIBloxUseFullPageModalZIndex = require(script.GetFFlagUIBloxUseFullPageModalZIndex)
+};

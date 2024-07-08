@@ -1,0 +1,14 @@
+local v0 = {};
+local l_Object_0 = require(script.Parent.Parent.LuauPolyfill).Object;
+v0.MockedProvider = require(script.mocking.MockedProvider).MockedProvider;
+local v2 = require(script.mocking.mockLink);
+v0.MockLink = v2.MockLink;
+v0.mockSingleLink = v2.mockSingleLink;
+local v3 = require(script.mocking.mockSubscriptionLink);
+v0.MockSubscriptionLink = v3.MockSubscriptionLink;
+v0.mockObservableLink = v3.mockObservableLink;
+v0.stripSymbols = require(script.stripSymbols).stripSymbols;
+v0.subscribeAndCount = require(script.subscribeAndCount).default;
+v0.itAsync = require(script.itAsync).itAsync;
+l_Object_0.assign(v0, (require(script.withConsoleSpy)));
+return v0;
